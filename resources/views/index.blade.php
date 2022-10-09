@@ -71,7 +71,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="index.blade.php">
                                     <img src="img/img-home/logo.png" alt="">
                                 </a>
                             </div>
@@ -80,21 +80,21 @@
                             <div class="main-menu">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.html">home</a></li>
-                                        <li><a href="About.html">About</a></li>
+                                        <li><a href="index.blade.php">home</a></li>
+                                        <li><a href="About.blade.php">About</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="blog.html">blog</a></li>
-                                                <li><a href="single-blog.html">single-blog</a></li>
+                                                <li><a href="blog.blade.php">blog</a></li>
+                                                <li><a href="single-blog.blade.php">single-blog</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements.html">elements</a></li>
-                                                <li><a href="Cause.html">Cause</a></li>
+                                                <li><a href="elements.blade.php">elements</a></li>
+                                                <li><a href="Cause.blade.php">Cause</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.blade.php">Contact</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
@@ -126,7 +126,7 @@
                                 When They Need</h3>
                             <p>With so much to consume and such little time, coming up <br>
                                 with relevant title ideas is essential</p>
-                            <a href="About.html" class="boxed-btn3">Learn More
+                            <a href="About.blade.php" class="boxed-btn3">Learn More
                             </a>
                         </div>
                     </div>

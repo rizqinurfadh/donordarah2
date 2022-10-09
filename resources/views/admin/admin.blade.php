@@ -8,6 +8,6 @@
     </script>
 </head>
 <body>
-    <a href="docs/index.html">Go to Admin 4B docs</a>
+    <a href="admin.blade.php">Go to Admin 4B docs</a>
 </body>
 </html>
