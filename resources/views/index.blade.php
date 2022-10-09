@@ -121,7 +121,7 @@
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="slider_text ">
-                            <span>Tahukah Kamu</span>
+                            <span>Tahukah Kamu?</span>
                             <h3> Bagi siapapun yang sedang membutuhkan
                                 Darah menjadi kebutuhan paling berharga</h3>
                             <p>Ayo donor darah sekarang <br>
