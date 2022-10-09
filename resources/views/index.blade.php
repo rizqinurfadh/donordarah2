@@ -395,7 +395,7 @@
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
-                                <a href="single-blog.html">
+                                <a href="single-blog.blade.php">
                                     <h3>Pure Water Is More 
                                         Essential</h3>
                                 </a>
@@ -403,7 +403,7 @@
                                     surge in popularity during the 
                                     1960s when used it on their  
                                     sheets, and again.</p>
-                                <a class="read_more" href="single-blog.html">Read More</a>
+                                <a class="read_more" href="single-blog.blade.php">Read More</a>
                             </div>
                         </div>
                         <div class="single__blog d-flex align-items-center">
@@ -412,7 +412,7 @@
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
-                                <a href="single-blog.html">
+                                <a href="single-blog.blade.php">
                                     <h3>Pure Water Is More 
                                         Essential</h3>
                                 </a>
@@ -420,7 +420,7 @@
                                     surge in popularity during the 
                                     1960s when used it on their  
                                     sheets, and again.</p>
-                                <a class="read_more" href="single-blog.html">Read More</a>
+                                <a class="read_more" href="single-blog.blade.php">Read More</a>
                             </div>
                         </div>
                     </div>
