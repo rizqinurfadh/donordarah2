@@ -9,22 +9,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/img-home/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
-    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <link rel="stylesheet" href="css/css-home/bootstrap.min.css">
+    <link rel="stylesheet" href="css/css-home/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/css-home/magnific-popup.css">
+    <link rel="stylesheet" href="css/css-home/font-awesome.min.css">
+    <link rel="stylesheet" href="css/css-home/themify-icons.css">
+    <link rel="stylesheet" href="css/css-home/nice-select.css">
+    <link rel="stylesheet" href="css/css-home/flaticon.css">
+    <link rel="stylesheet" href="css/css-home/gijgo.css">
+    <link rel="stylesheet" href="css/css-home/animate.css">
+    <link rel="stylesheet" href="css/css-home/slicknav.css">
+    <link rel="stylesheet" href="css/css-home/style.css">
+    <!-- <link rel="stylesheet" href="css/css-home/responsive.css"> -->
 </head>
 
 <body>
@@ -72,7 +72,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                    <img src="img/img-home/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/1.png" alt="">
+                                <img src="img/img-home/help/1.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -167,7 +167,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/2.png" alt="">
+                                <img src="img/img-home/help/2.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -183,7 +183,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/3.png" alt="">
+                                <img src="img/img-home/help/3.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -246,7 +246,7 @@
                     <div class="causes_active owl-carousel">
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/1.png" alt="">
+                                <img src="img/img-home/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -271,7 +271,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/2.png" alt="">
+                                <img src="img/img-home/causes/2.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -296,7 +296,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/3.png" alt="">
+                                <img src="img/img-home/causes/3.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -321,7 +321,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/1.png" alt="">
+                                <img src="img/img-home/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -421,7 +421,7 @@
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/news/1.png" alt="">
+                                <img src="img/img-home/news/1.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
@@ -438,7 +438,7 @@
                         </div>
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/news/2.png" alt="">
+                                <img src="img/img-home/news/2.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
@@ -530,7 +530,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/footer_logo.png" alt="">
+                                    <img src="img/img-home/footer_logo.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
@@ -600,7 +600,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/news/news_1.png" alt="">
+                                            <img src="img/img-home/news/news_1.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -614,7 +614,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/news/news_2.png" alt="">
+                                            <img src="img/img-home/news/news_2.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -651,32 +651,32 @@
     <!-- link that opens popup -->
 
     <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/gijgo.min.js"></script>
+    <script src="js/js-home/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/js-home/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/js-home/popper.min.js"></script>
+    <script src="js/js-home/bootstrap.min.js"></script>
+    <script src="js/js-home/owl.carousel.min.js"></script>
+    <script src="js/js-home/isotope.pkgd.min.js"></script>
+    <script src="js/js-home/ajax-form.js"></script>
+    <script src="js/js-home/waypoints.min.js"></script>
+    <script src="js/js-home/jquery.counterup.min.js"></script>
+    <script src="js/js-home/imagesloaded.pkgd.min.js"></script>
+    <script src="js/js-home/scrollIt.js"></script>
+    <script src="js/js-home/jquery.scrollUp.min.js"></script>
+    <script src="js/js-home/wow.min.js"></script>
+    <script src="js/js-home/nice-select.min.js"></script>
+    <script src="js/js-home/jquery.slicknav.min.js"></script>
+    <script src="js/js-home/jquery.magnific-popup.min.js"></script>
+    <script src="js/js-home/plugins.js"></script>
+    <script src="js/js-home/gijgo.min.js"></script>
     <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
+    <script src="js/js-home/contact.js"></script>
+    <script src="js/js-home/jquery.ajaxchimp.min.js"></script>
+    <script src="js/js-home/jquery.form.js"></script>
+    <script src="js/js-home/jquery.validate.min.js"></script>
+    <script src="js/js-home/mail-script.js"></script>
 
-    <script src="js/main.js"></script>
+    <script src="js/js-home/main.js"></script>
 </body>
 
 </html>
