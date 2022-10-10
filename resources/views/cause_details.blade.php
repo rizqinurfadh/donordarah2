@@ -120,7 +120,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3>Help us to Send Food</h3>
+                        <h3>Rumah Sakit Universitas Airlangga</h3>
                     </div>
                 </div>
             </div>
@@ -148,15 +148,16 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: $5000.00 </span>
-                                <span>Goal: $9000.00 </span>
+                                <span>Raised: 200 kantong  </span></br>
+                                <span>Goal: 2600 kantong  </span>
                             </div>
-                            <h4>Clothes For Everyone</h4>
-                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain</p>
-                            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims </p>
-                            <p>These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p>
-                            
-                        </div>
+                            <h4>Rumah Sakit Universitas Airlangga </br>(RS UNAIR)</h4>
+                            <p>Donor darah ini diselenggarakan 
+                                oleh PMI Kota Surabaya 
+                                bekerja sama dengan 
+                                Rumah Sakit Universitas Airlangga</p>
+                            </div>
+                        </div>    
                     </div>
                 </div>
             </div>
@@ -164,7 +165,7 @@
     </div>
     <!-- popular_causes_area_end  -->
 
-
+    
     <div class="make_donation_area section_padding">
         <div class="container">
             <div class="row justify-content-center">
