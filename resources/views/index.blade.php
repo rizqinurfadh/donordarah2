@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="css/css-home/gijgo.css">
     <link rel="stylesheet" href="css/css-home/animate.css">
     <link rel="stylesheet" href="css/css-home/slicknav.css">
-    <link rel="stylesheet" href="css/css-home/style.css">
+    <link rel="stylesheet" href="css\css-home\style.css">
     <!-- <link rel="stylesheet" href="css/css-home/responsive.css"> -->
 </head>
 
