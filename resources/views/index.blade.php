@@ -71,8 +71,8 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                <a href="index">
+                                    <img src="img/logo4.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -80,8 +80,8 @@
                             <div class="main-menu">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.html">home</a></li>
-                                        <li><a href="About.html">About</a></li>
+                                        <li><a href="index.php">home</a></li>
+                                        <li><a href="About.blade.php">About</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog.html">blog</a></li>
@@ -121,11 +121,10 @@
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="slider_text ">
-                            <span>Get Started Today.</span>
-                            <h3> Help the children
-                                When They Need</h3>
-                            <p>With so much to consume and such little time, coming up <br>
-                                with relevant title ideas is essential</p>
+                            <span>Tahukah kamu?</span>
+                            <h3> Darah menjadi kebutuhan paling berharga</h3>
+                            <p>Ayo donor darah sekarang <br>
+                                kita sehat orang lain selamat</p>
                             <a href="About.html" class="boxed-btn3">Learn More
                             </a>
                         </div>
