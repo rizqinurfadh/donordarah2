@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Blood</title>
+    <title>Blutspender</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -72,7 +72,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
                                 <a href="index.blade.php">
-                                    <img src="img/img-home/logo.png" alt="">
+                                    <img src="img/img-home/logo6.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="#">Make a Donate</a>
+                                        <a data-scroll-nav='1' href="resources\views\login.blade.php">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -119,11 +119,10 @@
         <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-20">
+                    <div class="col-lg-9">
                         <div class="slider_text ">
                             <span>Tahukah Kamu?</span>
-                            <h3> Bagi siapapun yang sedang membutuhkan
-                                Darah menjadi kebutuhan paling berharga</h3>
+                            <h3> Darah menjadi kebutuhan paling berharga</h3>
                             <p>Ayo donor darah sekarang <br>
                                 kita sehat orang lain selamat</p>
                             <a href="About.blade.php" class="boxed-btn3">Learn More
@@ -391,18 +390,16 @@
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/img-home/news/1.png" alt="">
+                                <img src="img/img-home/news/news1.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
                                 <a href="single-blog.blade.php">
-                                    <h3>Pure Water Is More 
-                                        Essential</h3>
+                                    <h3>Gelar Aksi Donor Darah, Antusiasme Melebihi Ekspektasi</h3>
                                 </a>
-                                <p>The passage experienced a 
-                                    surge in popularity during the 
-                                    1960s when used it on their  
-                                    sheets, and again.</p>
+                                <p>Dalam acara ini, setidaknya lebih dari 30 
+                                    pendaftar yang ingin mendonorkan darahnya. 
+                                    </p>
                                 <a class="read_more" href="single-blog.blade.php">Read More</a>
                             </div>
                         </div>
@@ -500,7 +497,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/img-home/footer_logo.png" alt="">
+                                    <img src="img/img-home/footer_logo1.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
