@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Charifit</title>
+    <title>Blutspender</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -138,20 +138,21 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>18</h3>
+                                    <p>Sep</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Stok Darah di PMI Surabaya Aman,
+                                        Golongan B Terbanyak</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Stok sel darah merah di UDD PMI Surabaya saat ini aman. 
+                                    Ini karena banyak pendonor yang datang ke PMI maupun dari instansi hingga pendidikan.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Berita, detikJatim</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 0 Comments</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -160,20 +161,20 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_2.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>23</h3>
+                                    <p>Jul</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>514 Pendonor di PMI Surabaya Masih Belum Tahu Terinfeksi Penyakit Menular</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Sebanyak 514 kantong darah di Palang Merah Indonesia (PMI) Surabaya terinfeksi penyakit menular. 
+                                    Ratusan kantong darah tersebut sudah dimusnahkan.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Berita, detikJatim</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 02 Comments</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -182,19 +183,19 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_3.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>31</h3>
+                                    <p>Aug</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Pemeriksaan Ginjal Harga Rp 51.000 Khusus Pejuang Donor Berlaku hingga September 2022</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Kebiasaan kurang minum air mineral dapat menyebabkan penurunan kesehatan ginjal. 
+                                    Gejala penurunan kesehatan ginjal dapat berupa rasa pegal di pinggang. </p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Kesehatan, Reblood</a></li>
                                     <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                                 </ul>
                             </div>
@@ -204,42 +205,20 @@
                             <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_4.png" alt="">
                                 <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
+                                    <h3>5</h3>
+                                    <p>Jul</p>
                                 </a>
                             </div>
 
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
+                                    <h2>Cek Gula Darah, Kolesterol, Asam Urat hanya Rp 35.000 di UTD PMI Kota Surabaya</h2>
                                 </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
+                                <p>Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan cek kesehatan untuk asam urat, 
+                                    gula darah, dan kolesterol pada</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
-
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_5.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Kesehatan, Reblood</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
                                 </ul>
                             </div>
                         </article>
@@ -290,38 +269,38 @@
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Resaurant food</p>
+                                        <p>Kesehatan</p>
                                         <p>(37)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Travel news</p>
+                                        <p>Berita</p>
                                         <p>(10)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Modern technology</p>
+                                        <p>Tips</p>
                                         <p>(03)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Product</p>
+                                        <p>Event</p>
                                         <p>(11)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
                                         <p>Inspiration</p>
-                                        <p>21</p>
+                                        <p>(21)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Health Care (21)</p>
-                                        <p>09</p>
+                                        <p>Update</p>
+                                        <p>(09)</p>
                                     </a>
                                 </li>
                             </ul>
@@ -333,25 +312,27 @@
                                 <img src="img/post/post_1.png" alt="post">
                                 <div class="media-body">
                                     <a href="single-blog.html">
-                                        <h3>From life was you fish...</h3>
+                                        <h3>Cek Gula Darah,Kolesterol,Asam Urat  
+                                        hanya Rp 35.000 Khusus Pendonor Darah</h3>
                                     </a>
-                                    <p>January 12, 2019</p>
+                                    <p>September 10, 2022</p>
                                 </div>
                             </div>
                             <div class="media post_item">
                                 <img src="img/post/post_2.png" alt="post">
                                 <div class="media-body">
                                     <a href="single-blog.html">
-                                        <h3>The Amazing Hubble</h3>
+                                        <h3>Donor Darah Dapat Service 
+                                        Motor Gratis, Caranya?</h3>
                                     </a>
-                                    <p>02 Hours ago</p>
+                                    <p>April 10, 2022</p>
                                 </div>
                             </div>
                             <div class="media post_item">
                                 <img src="img/post/post_3.png" alt="post">
                                 <div class="media-body">
                                     <a href="single-blog.html">
-                                        <h3>Astronomy Or Astrology</h3>
+                                        <h3>Berbuat Kebaikan Membantu Banyak Orang</h3>
                                     </a>
                                     <p>03 Hours ago</p>
                                 </div>
@@ -360,7 +341,7 @@
                                 <img src="img/post/post_4.png" alt="post">
                                 <div class="media-body">
                                     <a href="single-blog.html">
-                                        <h3>Asteroids telescope</h3>
+                                        <h3>Donorkan Darahmu Selamatkan Pasien</h3>
                                     </a>
                                     <p>01 Hours ago</p>
                                 </div>
@@ -370,22 +351,22 @@
                             <h4 class="widget_title">Tag Clouds</h4>
                             <ul class="list">
                                 <li>
-                                    <a href="#">project</a>
+                                    <a href="#">blood</a>
                                 </li>
                                 <li>
                                     <a href="#">love</a>
                                 </li>
                                 <li>
-                                    <a href="#">technology</a>
+                                    <a href="#">news</a>
                                 </li>
                                 <li>
-                                    <a href="#">travel</a>
+                                    <a href="#">tips</a>
                                 </li>
                                 <li>
-                                    <a href="#">restaurant</a>
+                                    <a href="#">healthy</a>
                                 </li>
                                 <li>
-                                    <a href="#">life style</a>
+                                    <a href="#">donation</a>
                                 </li>
                                 <li>
                                     <a href="#">design</a>
