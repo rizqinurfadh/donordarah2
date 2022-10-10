@@ -126,12 +126,13 @@
                         <span class="idd1"></span> 
                     </div> <div class="d-flex flex-row justify-content-center align-items-center mt-3"> 
                         
-                     </div> <div class=" d-flex mt-2"> 
-                        <button class="btn1 btn-dark">Edit Profile</button> </div>
+                     </div> 
                          <div class="text mt-3"> 
                             <p>Eleanor Pena is a creator of minimalistic x bold graphics and digital artwork.<br>
                              Artist/ Creative Director by Day #NFT minting@ with FND night. </p> 
                             </div> <div class="gap-3 mt-3 icons d-flex flex-row justify-content-center align-items-center"> 
+                            <div class=" d-flex mt-2"> 
+                        <button class="btn1 btn-dark">Edit Profile</button> </div>
                                
 </div>
 
