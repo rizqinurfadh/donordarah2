@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Blood</title>
+    <title>Blutspender</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -72,7 +72,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
                                 <a href="index.blade.php">
-                                    <img src="img/img-home/logo.png" alt="">
+                                    <img src="img/img-home/logo6.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="#">Make a Donate</a>
+                                        <a data-scroll-nav='1' href="resources\views\login.blade.php">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -119,11 +119,10 @@
         <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-20">
+                    <div class="col-lg-9">
                         <div class="slider_text ">
                             <span>Tahukah Kamu?</span>
-                            <h3> Bagi siapapun yang sedang membutuhkan
-                                Darah menjadi kebutuhan paling berharga</h3>
+                            <h3> Darah menjadi kebutuhan paling berharga</h3>
                             <p>Ayo donor darah sekarang <br>
                                 kita sehat orang lain selamat</p>
                             <a href="About.blade.php" class="boxed-btn3">Learn More
