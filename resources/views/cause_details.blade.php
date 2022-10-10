@@ -85,7 +85,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                <li><a href="single-blog">single-blog</a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -235,33 +235,14 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/footer_logo.png" alt="">
+                                    <img src="img/logo3.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
+                            <p class="address_text">Bergerak hidup sehat, <br> berbagi kehidupan,  <br> dan berbuat kebaikan
                             </p>
                             <div class="socail_links">
                                 <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-twitter-alt"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-dribbble"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
+                                   
                                 </ul>
                             </div>
 
@@ -269,17 +250,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="#">Donate</a></li>
-                                <li><a href="#">Sponsor</a></li>
-                                <li><a href="#">Fundraise</a></li>
-                                <li><a href="#">Volunteer</a></li>
-                                <li><a href="#">Partner</a></li>
-                                <li><a href="#">Jobs</a></li>
-                            </ul>
+                            
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -288,10 +259,9 @@
                                 Contacts
                             </h3>
                             <div class="contacts">
-                                <p>+2(305) 587-3407 <br>
-                                    info@loveuscharity.com <br>
-                                    Flat 20, Reynolds Neck, North
-                                    Helenaville, FV77 8WS
+                                <p>+62 (454) 556-5656 <br>
+                                    blutspender@gmail.com <br>
+                                    
                                 </p>
                             </div>
                         </div>
@@ -310,10 +280,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Pertama Sejak Pandemi, 500 Bankir
+                                                Gelar Aksi Donor Darah Bersama</h4>
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Sep 29, 2022</span>
                                     </div>
                                 </li>
                                 <li>
@@ -324,10 +294,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Hari Donor Darah Sedunia,
+                                                PMI Berhasil Lampaui Target</h4> 
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Jun 14, 2022</span>
                                     </div>
                                 </li>
                             </ul>
@@ -343,7 +313,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="ti-heart" aria-hidden="true"></i> by me</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>
