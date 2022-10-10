@@ -4,27 +4,27 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Blutspender</title>
+    <title>Charifit</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/img-home/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/css-home/bootstrap.min.css">
-    <link rel="stylesheet" href="css/css-home/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/css-home/magnific-popup.css">
-    <link rel="stylesheet" href="css/css-home/font-awesome.min.css">
-    <link rel="stylesheet" href="css/css-home/themify-icons.css">
-    <link rel="stylesheet" href="css/css-home/nice-select.css">
-    <link rel="stylesheet" href="css/css-home/flaticon.css">
-    <link rel="stylesheet" href="css/css-home/gijgo.css">
-    <link rel="stylesheet" href="css/css-home/animate.css">
-    <link rel="stylesheet" href="css/css-home/slicknav.css">
-    <link rel="stylesheet" href="css\css-home\style.css">
-    <!-- <link rel="stylesheet" href="css/css-home/responsive.css"> -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/gijgo.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
 <body>
@@ -71,8 +71,8 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
-                                <a href="index.blade.php">
-                                    <img src="img/img-home/logo6.png" alt="">
+                                <a href="index">
+                                    <img src="img/logo4.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -80,26 +80,26 @@
                             <div class="main-menu">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.blade.php">home</a></li>
+                                        <li><a href="index.php">home</a></li>
                                         <li><a href="About.blade.php">About</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="blog.blade.php">blog</a></li>
-                                                <li><a href="single-blog.blade.php">single-blog</a></li>
+                                                <li><a href="blog.html">blog</a></li>
+                                                <li><a href="single-blog.html">single-blog</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements.blade.php">elements</a></li>
-                                                <li><a href="Cause.blade.php">Cause</a></li>
+                                                <li><a href="elements.html">elements</a></li>
+                                                <li><a href="Cause.html">Cause</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.blade.php">Contact</a></li>
+                                        <li><a href="contact.html">Contact</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="resources\views\login.blade.php">Make a Donate</a>
+                                        <a data-scroll-nav='1' href="#">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -121,11 +121,11 @@
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="slider_text ">
-                            <span>Tahukah Kamu?</span>
+                            <span>Tahukah kamu?</span>
                             <h3> Darah menjadi kebutuhan paling berharga</h3>
                             <p>Ayo donor darah sekarang <br>
                                 kita sehat orang lain selamat</p>
-                            <a href="About.blade.php" class="boxed-btn3">Learn More
+                            <a href="About.html" class="boxed-btn3">Learn More
                             </a>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/img-home/help/1.png" alt="">
+                                <img src="img/help/1.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -166,7 +166,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/img-home/help/2.png" alt="">
+                                <img src="img/help/2.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -182,7 +182,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/img-home/help/3.png" alt="">
+                                <img src="img/help/3.png" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -199,6 +199,36 @@
     </div>
     <!-- reson_area_end  -->
 
+    <!-- latest_activites_area_start  -->
+    <div class="latest_activites_area">
+        <div class=" video_bg_1 video_activite  d-flex align-items-center justify-content-center">
+            <a class="popup-video" href="https://www.youtube.com/watch?v=MG3jGHnBVQs">
+                <i class="flaticon-ui"></i>
+            </a>
+        </div>
+        <div class="container">
+            <div class="row justify-content-end">
+                <div class="col-lg-7">
+                    <div class="activites_info">
+                        <div class="section_title">
+                            <h3> <span>Watch Our Latest  </span><br>
+                                Activities</h3>
+                        </div>
+                        <p class="para_1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do 
+                            eiusmod tempor incididunt  ut labore dolore magna aliqua. 
+                            enim minim veniam, quis nostrud exercitation.</p class="para_1">
+                        <p class="para_2">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do 
+                            eiusmod tempor incididunt  ut labore dolore magna aliqua. 
+                            enim minim veniam, quis nostrud exercitation. tempor 
+                            incididunt  ut labore dolore magna aliqua. enim minim 
+                            veniam, quis nostrud exercitation.</p>
+                        <a href="#" data-scroll-nav='1' class="boxed-btn4">Donate Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- latest_activites_area_end  -->
 
     <!-- popular_causes_area_start  -->
     <div class="popular_causes_area section_padding">
@@ -215,7 +245,7 @@
                     <div class="causes_active owl-carousel">
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/img-home/causes/1.png" alt="">
+                                <img src="img/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -240,7 +270,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/img-home/causes/2.png" alt="">
+                                <img src="img/causes/2.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -265,7 +295,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/img-home/causes/3.png" alt="">
+                                <img src="img/causes/3.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -290,7 +320,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/img-home/causes/1.png" alt="">
+                                <img src="img/causes/1.png" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -375,6 +405,109 @@
     </div>
     <!-- counter_area_end  -->
 
+    <!-- our_volunteer_area_start  -->
+    <div class="our_volunteer_area section_padding">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section_title text-center mb-55">
+                        <h3><span>Our Volunteer</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_volenteer">
+                        <div class="volenteer_thumb">
+                            <img src="img/volenteer/1.png" alt="">
+                        </div>
+                        <div class="voolenteer_info d-flex align-items-end">
+                            <div class="social_links">
+                                <ul>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="info_inner">
+                                <h4>Sakil khan</h4>
+                                <p>Donner</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_volenteer">
+                        <div class="volenteer_thumb">
+                            <img src="img/volenteer/2.png" alt="">
+                        </div>
+                        <div class="voolenteer_info d-flex align-items-end">
+                            <div class="social_links">
+                                <ul>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="info_inner">
+                                <h4>Emran Ahmed</h4>
+                                <p>Volunteer</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_volenteer">
+                        <div class="volenteer_thumb">
+                            <img src="img/volenteer/3.png" alt="">
+                        </div>
+                        <div class="voolenteer_info d-flex align-items-end">
+                            <div class="social_links">
+                                <ul>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-pinterest"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-linkedin"></i> </a>
+                                    </li>
+                                    <li>
+                                        <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="info_inner">
+                                <h4>Sabbir Ahmed</h4>
+                                <p>Volunteer</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- our_volunteer_area_end  -->
+
     <!-- news__area_start  -->
     <div class="news__area section_padding">
         <div class="container">
@@ -390,26 +523,11 @@
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/img-home/news/news1.png" alt="">
+                                <img src="img/news/1.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
-                                <a href="single-blog.blade.php">
-                                    <h3>Gelar Aksi Donor Darah, Antusiasme Melebihi Ekspektasi</h3>
-                                </a>
-                                <p>Dalam acara ini, setidaknya lebih dari 30 
-                                    pendaftar yang ingin mendonorkan darahnya. 
-                                    </p>
-                                <a class="read_more" href="single-blog.blade.php">Read More</a>
-                            </div>
-                        </div>
-                        <div class="single__blog d-flex align-items-center">
-                            <div class="thum">
-                                <img src="img/img-home/news/2.png" alt="">
-                            </div>
-                            <div class="newsinfo">
-                                <span>July 18, 2019</span>
-                                <a href="single-blog.blade.php">
+                                <a href="single-blog.html">
                                     <h3>Pure Water Is More 
                                         Essential</h3>
                                 </a>
@@ -417,7 +535,24 @@
                                     surge in popularity during the 
                                     1960s when used it on their  
                                     sheets, and again.</p>
-                                <a class="read_more" href="single-blog.blade.php">Read More</a>
+                                <a class="read_more" href="single-blog.html">Read More</a>
+                            </div>
+                        </div>
+                        <div class="single__blog d-flex align-items-center">
+                            <div class="thum">
+                                <img src="img/news/2.png" alt="">
+                            </div>
+                            <div class="newsinfo">
+                                <span>July 18, 2019</span>
+                                <a href="single-blog.html">
+                                    <h3>Pure Water Is More 
+                                        Essential</h3>
+                                </a>
+                                <p>The passage experienced a 
+                                    surge in popularity during the 
+                                    1960s when used it on their  
+                                    sheets, and again.</p>
+                                <a class="read_more" href="single-blog.html">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -497,7 +632,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/img-home/footer_logo1.png" alt="">
+                                    <img src="img/footer_logo.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
@@ -567,7 +702,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/img-home/news/news_1.png" alt="">
+                                            <img src="img/news/news_1.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -581,7 +716,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/img-home/news/news_2.png" alt="">
+                                            <img src="img/news/news_2.png" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -618,32 +753,32 @@
     <!-- link that opens popup -->
 
     <!-- JS here -->
-    <script src="js/js-home/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/js-home/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/js-home/popper.min.js"></script>
-    <script src="js/js-home/bootstrap.min.js"></script>
-    <script src="js/js-home/owl.carousel.min.js"></script>
-    <script src="js/js-home/isotope.pkgd.min.js"></script>
-    <script src="js/js-home/ajax-form.js"></script>
-    <script src="js/js-home/waypoints.min.js"></script>
-    <script src="js/js-home/jquery.counterup.min.js"></script>
-    <script src="js/js-home/imagesloaded.pkgd.min.js"></script>
-    <script src="js/js-home/scrollIt.js"></script>
-    <script src="js/js-home/jquery.scrollUp.min.js"></script>
-    <script src="js/js-home/wow.min.js"></script>
-    <script src="js/js-home/nice-select.min.js"></script>
-    <script src="js/js-home/jquery.slicknav.min.js"></script>
-    <script src="js/js-home/jquery.magnific-popup.min.js"></script>
-    <script src="js/js-home/plugins.js"></script>
-    <script src="js/js-home/gijgo.min.js"></script>
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/gijgo.min.js"></script>
     <!--contact js-->
-    <script src="js/js-home/contact.js"></script>
-    <script src="js/js-home/jquery.ajaxchimp.min.js"></script>
-    <script src="js/js-home/jquery.form.js"></script>
-    <script src="js/js-home/jquery.validate.min.js"></script>
-    <script src="js/js-home/mail-script.js"></script>
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
 
-    <script src="js/js-home/main.js"></script>
+    <script src="js/main.js"></script>
 </body>
 
 </html>
