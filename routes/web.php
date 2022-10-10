@@ -41,6 +41,10 @@ Route::get('/lokasi', function () {
     return view('lokasi');
 });
 
+Route::get('/cause_details', function () {
+    return view('cause_details'); 
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
