@@ -62,3 +62,6 @@ Route::get('/Profile', function () {
     return view('profile');
 });
 
+Route::get('/Profile1', function () {
+    return view('profilee');
+});

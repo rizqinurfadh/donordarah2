@@ -128,8 +128,48 @@
                         
                      </div> 
                          <div class="text mt-3"> 
-                            <p>Eleanor Pena is a creator of minimalistic x bold graphics and digital artwork.<br>
-                             Artist/ Creative Director by Day #NFT minting@ with FND night. </p> 
+                            <p>                                                                                                                  </p> 
+                             <div class="row">
+                                            <div class="col-md-6">
+                                                <label>Golongan Darah</label>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>A</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <label>Name</label>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>Eleanor Pena</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <label>Email</label>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>Eleanor Pena@gmail.com</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <label>Phone</label>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>123 456 7890</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <label>Address</label>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>Groove Street</p>
+                                            </div>
+                                        </div>
+                            </div>
                             </div> <div class="gap-3 mt-3 icons d-flex flex-row justify-content-center align-items-center"> 
                             <div class=" d-flex mt-2"> 
                         <button class="btn1 btn-dark">Edit Profile</button> </div>
