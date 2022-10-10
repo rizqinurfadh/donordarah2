@@ -37,8 +37,8 @@ Route::get('/elements', function () {
     return view('elements');
 });
 
-Route::get('/cause', function () {
-    return view('cause');
+Route::get('/lokasi', function () {
+    return view('lokasi');
 });
 
 Route::get('/contact', function () {
