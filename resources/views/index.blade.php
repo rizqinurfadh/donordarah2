@@ -261,11 +261,11 @@
                                     <span>Raised: $5000.00 </span>
                                     <span>Goal: $9000.00 </span>
                                 </div>
-                                <h4>RSUD Bhakti Dharma Husada</h4>
+                                <h4>RSGM Unair</h4>
                                 <p>Donor darah ini diselenggarakan 
                                     oleh PMI Kota Surabaya 
                                     bekerja sama dengan 
-                                    RSUD Bhakti Dharma Husada</p>
+                                    RSGM Unair</p> 
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
@@ -291,7 +291,7 @@
                                 <p>Donor darah ini diselenggarakan 
                                     oleh PMI Kota Surabaya 
                                     bekerja sama dengan  
-                                    RSUD Dr.Moh.Soewandhi</p>
+                                    RSUD Dr.Moh.Soewandhi</p> 
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
@@ -313,10 +313,11 @@
                                     <span>Raised: $5000.00 </span>
                                     <span>Goal: $9000.00 </span>
                                 </div>
-                                <h4>Water For All Children</h4>
-                                <p>The passage is attributed to an 
-                                    unknown typesetter in the century 
-                                    who is thought</p> 
+                                <h4>RSUD Dr.Soetomo</h4>
+                                <p>Donor darah ini diselenggarakan 
+                                    oleh PMI Kota Surabaya 
+                                    bekerja sama dengan 
+                                    RSUD Dr.Soetomo</p>  
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
@@ -338,10 +339,11 @@
                                     <span>Raised: $5000.00 </span>
                                     <span>Goal: $9000.00 </span>
                                 </div>
-                                <h4>Help us to Send Food</h4>
-                                <p>The passage is attributed to an 
-                                    unknown typesetter in the century 
-                                    who is thought</p>
+                                <h4>RSUD Bhakti Dharma Husada</h4>
+                                <p>Donor darah ini diselenggarakan 
+                                    oleh PMI Kota Surabaya 
+                                    bekerja sama dengan  
+                                    RSUD Bhakti Dharma Husada</p>
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
