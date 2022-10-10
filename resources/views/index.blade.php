@@ -119,7 +119,7 @@
         <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-9">
+                    <div class="col-lg-20">
                         <div class="slider_text ">
                             <span>Tahukah Kamu?</span>
                             <h3> Bagi siapapun yang sedang membutuhkan
