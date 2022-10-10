@@ -48,20 +48,7 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                            <div class="social_media_links d-none d-lg-block">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-pinterest-p"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -85,7 +72,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                <li><a href="single-blog">single-blog</a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -444,33 +431,14 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/footer_logo.png" alt="">
+                                    <img src="img/logo3.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Bergerak hidup sehat, <br> berbagi kehidupan,  <br> dan berbuat kebaikan
                             </p>
                             <div class="socail_links">
                                 <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="ti-twitter-alt"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-dribbble"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
+                                   
                                 </ul>
                             </div>
 
@@ -487,10 +455,9 @@
                                 Contacts
                             </h3>
                             <div class="contacts">
-                                <p>+2(305) 587-3407 <br>
+                                <p>+62 (454) 556-5656 <br>
                                     blutspender@gmail.com <br>
-                                    Flat 20, Reynolds Neck, North
-                                    Helenaville, FV77 8WS
+                                    
                                 </p>
                             </div>
                         </div>
