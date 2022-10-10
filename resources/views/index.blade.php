@@ -405,7 +405,7 @@
                         </div>
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/img-home/news/2.png" alt="">
+                                <img src="img/img-home/news/news2.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
