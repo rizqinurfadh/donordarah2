@@ -81,14 +81,14 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="index">home</a></li>
-                                        <li><a href="About">About</a></li>
+                                        <li><a href="About">Profile</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
                                                 <li><a href="single-blog">single-blog</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">informasi donor<i class="ti-angle-down"></i></a>
+                                        <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="elements">Stok Darah</a></li>
                                                 <li><a href="Cause">Lokasi Donor</a></li>
@@ -141,7 +141,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section_title text-center mb-55">
-                        <h3><span>Reason of Helping</span></h3>
+                        <h3><span>Blutspender</span></h3>
+                        <p>Bergerak hidup sehat, berbagi kebahagiaan,<br>
+                            dan berbuat kebaikan</p>
                     </div>
                 </div>
             </div>
@@ -154,10 +156,9 @@
                             </div>
                         </div>
                         <div class="help_content">
-                            <h4>Collecting Fund</h4>
-                            <p>Lorem ipsum, or lipsum as it is 
-                                sometimes known, is dummy 
-                                text used in laying out print.</p>
+                            <h4>Ayo Donorkan Darahmu!</h4>
+                            <p>Temukan jadwal donor darah  
+                                di Rumah Sakit terdekat dari lokasi kamu.</p>
                             <a href="#" class="read_more">Read More</a>
                         </div>
                     </div>
@@ -170,10 +171,9 @@
                             </div>
                         </div>
                         <div class="help_content">
-                            <h4>Blood Camp</h4>
-                            <p>Lorem ipsum, or lipsum as it is 
-                                sometimes known, is dummy 
-                                text used in laying out print.</p>
+                            <h4>Butuh bantuan donor darah?</h4>
+                            <p>Kamu bisa mengisi formulir 
+                                yang ada pada menu butuh donor.</p>
                             <a href="#" class="read_more">Read More</a>
                         </div>
                     </div>
@@ -186,10 +186,9 @@
                             </div>
                         </div>
                         <div class="help_content">
-                            <h4>Friendly Volunteer</h4>
-                            <p>Lorem ipsum, or lipsum as it is 
-                                sometimes known, is dummy 
-                                text used in laying out print.</p>
+                            <h4>Ketahui informasi seputar donor darah</h4>
+                            <p>Pelajari informasi seputar donor darah
+                                dan kesehatan terkini.</p>
                             <a href="#" class="read_more">Read More</a>
                         </div>
                     </div>
@@ -605,10 +604,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Pertama Sejak Pandemi, 500 Bankir
+                                                Gelar Aksi Donor Darah Bersama</h4>
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Sep 29, 2022</span>
                                     </div>
                                 </li>
                                 <li>
@@ -619,10 +618,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Hari Donor Darah Sedunia,
+                                                PMI Berhasil Lampaui Target</h4> 
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Jun 14, 2022</span>
                                     </div>
                                 </li>
                             </ul>
