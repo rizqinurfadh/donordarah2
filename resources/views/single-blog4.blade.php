@@ -128,8 +128,47 @@
   </div>
   <!-- bradcam_area_end  -->
 
-   <!-- comment  -->
-  <div class="navigation-top">
+      <!--================Blog Area =================-->
+      <section class="blog_area single-post-area section-padding">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 posts-list">
+               <div class="single-post">
+                  <div class="feature-img">
+                     <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
+                  </div>
+                  <div class="blog_details">
+                     <h2>Cek Gula Darah, Kolesterol, Asam Urat hanya Rp 35.000 di UTD PMI Kota Surabaya 
+                     </h2>
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><a href="#"><i class="fa fa-user"></i> healthy, detikJatim</a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
+                     </ul>
+                     <p class="excert">
+                     Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan cek kesehatan untuk asam urat, 
+                     gula darah dan kolesterol pada bulan September hingga Oktober 2022 dengan jadwal berikut ini</p>
+                     <p>
+                    -Senin-Jumat, 07:00-21:00 di Klinik PMI Kota Surabaya, Jalan Tambaksari No. 49 </br>
+                    -Sabtu-Minggu, 09:00-16:00 di UDD PMI Kota Surabaya, Jalan Embong Ploso No. 7-15.</p>
+                     <div class="quote-wrapper">
+                        <div class="quotes">
+                        Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus pendonor darah 
+                        sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
+                        </div>
+                     </div>
+                     <p>
+                     Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus pendonor darah 
+                     sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
+                     </p>
+                     <p>
+                     Ayo segera datang dan cek kesehatan kamu sekarang.
+                     </p>
+                     <p>
+                     Terima kasih dan salam sehat.     
+                     <p>
+                  </div>
+                </div>
+                <div class="navigation-top">
                   <div class="d-sm-flex justify-content-between text-center">
                      <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 6
                         people like this</p>

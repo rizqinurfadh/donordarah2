@@ -138,34 +138,36 @@
                      <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
                   </div>
                   <div class="blog_details">
-                     <h2>Cek Gula Darah, Kolesterol, Asam Urat hanya Rp 35.000 Khusus Pendonor Darah 
+                     <h2>Stok Darah di PMI Surabaya Aman, Golongan B Terbanyak 
                      </h2>
                      <ul class="blog-info-link mt-3 mb-4">
-                        <li><a href="#"><i class="fa fa-user"></i> healthy, Reblood</a></li>
+                        <li><a href="#"><i class="fa fa-user"></i> news, detikJatim</a></li>
                         <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
                      </ul>
                      <p class="excert">
-                     Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan 
-                     cek kesehatan untuk asam urat, gula darah dan kolesterol pada 
-                     bulan September hingga Oktober 2022 dengan jadwal berikut ini</p>
+                     Stok sel darah merah di UDD PMI Surabaya saat ini aman. 
+                     Ini karena banyak pendonor yang datang ke PMI maupun dari instansi hingga pendidikan.</p>
                      <p>
-                     -Senin-Jumat, 07:00-21:00 di Klinik PMI Kota Surabaya, Jalan Tambaksari No. 49</br>
-                     -Sabtu-Minggu, 09:00-16:00 di UDD PMI Kota Surabaya, Jalan Embong Ploso No. 7-15
-                     </p>
+                     Saat ini, stok packed red cell (PRC) ada 474 kantong. Sama halnya dengan stok thrombosyte concentrate (TR) atau 
+                     produk dara yang berisi trombosit pekat hasil dari pemisahan darah lengkap, stoknya saat ini aman.</p>
                      <div class="quote-wrapper">
                         <div class="quotes">
-                        Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus 
-                        pendonor darah sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
+                        "Saat ini stok aman. PRC ada 474 kantong. TC ada 271 kantong," kata Kabag Pelayanan dan Humas UDD PMI Kota Surabaya, 
+                        dr Wandai Rasoetedja kepada detikJatim, Minggu (18/9/2022).
                         </div>
                      </div>
                      <p>
-                        Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus 
-                        pendonor darah sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
+                     Dr Wandai juga menyebutkan jumlah masing-masing stok golongan darah. 
+                     Terbanyak yaitu golongan darah B dengan jumlah 301 kantong saat ini.
                      </p>
                      <p>
-                        Ayo segera datang dan cek kesehatan kamu sekarang.
+                     Sementara stok trombosit atau TR paling banyak juga dari golongan B. 
+                     rinciannya, stok TR golongan A ada 65, B ada 96, AB ada 18 dan O ada 92 kantong.
                      </p>
-                     Terima kasih dan salam sehat.
+                     <p>
+                     Dalam setiap harinnya pun banyak pendonor yang datang ke UDD PMI Surabaya. "Rata-rata pendonor ada sekitar 250-300 orang per harinya," ujarnya. 
+                     Selain masyarakat yang datang langsung ke UDD PMI Surabaya, juga ada dari beberapa perusahaan, instansi hingga pendidikan. Sehingga stok darah aman karena banyak masyarakat yang mau membantu sesama.
+                     </p>
                      <p>
                   </div>
                </div>

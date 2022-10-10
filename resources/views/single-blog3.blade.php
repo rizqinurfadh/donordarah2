@@ -128,8 +128,48 @@
   </div>
   <!-- bradcam_area_end  -->
 
-   <!-- comment  -->
-  <div class="navigation-top">
+     <!--================Blog Area =================-->
+     <section class="blog_area single-post-area section-padding">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 posts-list">
+               <div class="single-post">
+                  <div class="feature-img">
+                     <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
+                  </div>
+                  <div class="blog_details">
+                     <h2>Pemeriksaan Ginjal Harga Rp 51.000 Khusus Pejuang Donor Berlaku hingga September 2022 
+                     </h2>
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><a href="#"><i class="fa fa-user"></i> healthy, reblood</a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
+                     </ul>
+                     <p class="excert">
+                     Kebiasaan kurang minum air mineral dapat menyebabkan penurunan kesehatan ginjal. 
+                     Gejala penurunan kesehatan ginjal dapat berupa rasa pegal di pinggang. 
+                     Jika diteruskan dan tidak dicegah, dapat berakibat gagal ginjal. Oleh karena itu, Reblood dan Labpintar menginisiasi program pemeriksaan ginjal untuk membantu masyarakat dalam deteksi dini dan menjaga kesehatan ginjal.</p>
+                     <p>
+                     Bagi kamu para pejuang donor, dapatkan harga khusus, hanya 51.000 Rupiah. 
+                     Kamu sudah mendapatkan pemeriksaan ginjal meliputi: creatinine dan eGFR dari Labpintar bekerjasama dengan Reblood.</p>
+                     <p>
+                     Bagi pendonor yang telah bergabung dengan Reblood, dapatkan harga khusus Rp 51.000 dengan mengirimkan screenshot profile 
+                     pada app Reblood atau web https://app.reblood.com pada saat reservasi via WA ke Siska.</p>
+                     <div class="quote-wrapper">
+                        <div class="quotes">
+                        Harga 75.000 untuk non pendonor. 
+                        </div>
+                     </div>
+                     <p>
+                     Harga promo berlaku hingga September 2022, ayo segera reservasi sebelum promo berakhir ya teman-teman.
+                     </p>
+                     <p>
+                     Saat darah sudah diambil akan dilakukan beberapa pemeriksaan. 
+                     Di antaranya terkait golongan darah, screening antibodi, dan pemeriksaan IMLTD.
+                     </p>
+                     <p>
+                  </div>
+                </div>
+                <div class="navigation-top">
                   <div class="d-sm-flex justify-content-between text-center">
                      <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 6
                         people like this</p>

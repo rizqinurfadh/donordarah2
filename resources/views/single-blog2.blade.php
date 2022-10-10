@@ -128,8 +128,52 @@
   </div>
   <!-- bradcam_area_end  -->
 
-   <!-- comment  -->
-  <div class="navigation-top">
+   <!--================Blog Area =================-->
+   <section class="blog_area single-post-area section-padding">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 posts-list">
+               <div class="single-post">
+                  <div class="feature-img">
+                     <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
+                  </div>
+                  <div class="blog_details">
+                     <h2>514 Pendonor di PMI Surabaya Masih Belum Tahu Terinfeksi Penyakit Menular 
+                     </h2>
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><a href="#"><i class="fa fa-user"></i> news, detikJatim</a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
+                     </ul>
+                     <p class="excert">
+                     Sebanyak 514 kantong darah di Palang Merah Indonesia (PMI) Surabaya terinfeksi penyakit menular. Ratusan kantong darah tersebut sudah dimusnahkan. 
+                     Namun, ternyata 514 orang yang mendonorkan darahnya itu tak tahu bahwa mereka terinfeksi penyakit menular.</p>
+                     <p>
+                     PMI Surabaya masih belum memberi tahu kepada para pendonor. 
+                     Sebab, mereka harus melakukan karantina darah terlebih dahulu untuk benar-benar memastikan.</p>
+                     <p>
+                     "Kalau pemberitahuan (kepada pendonor) pasti akan kami beritahu kalau didapatkan hasil reaktif. Untuk saat ini belum (diberitahu)," 
+                     jelas Kabag Pelayanan dan Humas UDD PMI Kota Surabaya dr Wandai Rasoetedja saat dihubungi detikJatim, Sabtu (23/7/2022).</p>
+                     <div class="quote-wrapper">
+                        <div class="quotes">
+                        Saat ditanya apakah pendonor banyak dari Surabaya atau luar kota, dr Wandai tidak bisa menjawab. 
+                        Sebab, hal tersebut merupakan privasi data pendonor.
+                        </div>
+                     </div>
+                     <p>
+                     514 kantong darah yang terinfeksi penyakit menular itu diketahui setelah dilakukan pemeriksaan. 
+                     Yakni Infeksi Menular Lewat Transfusi Darah (IMLTD) yang dilakukan setelah darah diambil dari pendonor.
+                     </p>
+                     <p>
+                     Saat darah sudah diambil akan dilakukan beberapa pemeriksaan. 
+                     Di antaranya terkait golongan darah, screening antibodi, dan pemeriksaan IMLTD.
+                     </p>
+                     <p>
+                     Dengan pemeriksaan IMLTD yang bersifat screening, sekecil apapun virus bisa terdeteksi. 
+                     Jika hasil dari IMLTD dinyatakan reaktif, maka darah tersebut akan dilakukan karantina dahulu.</p>
+                     <p>
+                  </div>
+                </div>
+                <div class="navigation-top">
                   <div class="d-sm-flex justify-content-between text-center">
                      <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 6
                         people like this</p>
