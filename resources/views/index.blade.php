@@ -88,13 +88,13 @@
                                                 <li><a href="single-blog">single-blog</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                        <li><a href="#">informasi donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements">elements</a></li>
-                                                <li><a href="Cause">Cause</a></li>
+                                                <li><a href="elements">Stok Darah</a></li>
+                                                <li><a href="Cause">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Contact</a></li>
+                                        <li><a href="contact">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
@@ -236,7 +236,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section_title text-center mb-55">
-                        <h3><span>Popular Causes</span></h3>
+                        <h3><span>Lokasi Donor</span></h3>
                     </div>
                 </div>
             </div>
@@ -261,10 +261,11 @@
                                     <span>Raised: $5000.00 </span>
                                     <span>Goal: $9000.00 </span>
                                 </div>
-                                <h4>Help us to Send Food</h4>
-                                <p>The passage is attributed to an 
-                                    unknown typesetter in the century 
-                                    who is thought</p>
+                                <h4>RSUD Bhakti Dharma Husada</h4>
+                                <p>Donor darah ini diselenggarakan 
+                                    oleh PMI Kota Surabaya 
+                                    bekerja sama dengan 
+                                    RSUD Bhakti Dharma Husada</p>
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
@@ -286,10 +287,11 @@
                                     <span>Raised: $5000.00 </span>
                                     <span>Goal: $9000.00 </span>
                                 </div>
-                                <h4>Clothes For Everyone</h4>
-                                <p>The passage is attributed to an 
-                                    unknown typesetter in the century 
-                                    who is thought</p>
+                                <h4>RSUD Dr.Moh.Soewandhi</h4>
+                                <p>Donor darah ini diselenggarakan 
+                                    oleh PMI Kota Surabaya 
+                                    bekerja sama dengan  
+                                    RSUD Dr.Moh.Soewandhi</p>
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
@@ -314,7 +316,7 @@
                                 <h4>Water For All Children</h4>
                                 <p>The passage is attributed to an 
                                     unknown typesetter in the century 
-                                    who is thought</p>
+                                    who is thought</p> 
                                 <a class="read_more" href="cause_details.html">Read More</a>
                             </div>
                         </div>
