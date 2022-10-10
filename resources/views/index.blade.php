@@ -42,8 +42,8 @@
                         <div class="col-xl-6 col-md-12 col-lg-8">
                             <div class="short_contact_list">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-phone"></i> +1 (454) 556-5656</a></li>
-                                    <li><a href="#"> <i class="fa fa-envelope"></i>Yourmail@gmail.com</a></li>
+                                    <li><a href="#"> <i class="fa fa-phone"></i> +62 (454) 556-5656</a></li>
+                                    <li><a href="#"> <i class="fa fa-envelope"></i>blutspender@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="login">Make a Donate</a>
+                                        <a  href="register">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -198,36 +198,7 @@
     </div>
     <!-- reson_area_end  -->
 
-    <!-- latest_activites_area_start  -->
-    <div class="latest_activites_area">
-        <div class=" video_bg_1 video_activite  d-flex align-items-center justify-content-center">
-            <a class="popup-video" href="https://www.youtube.com/watch?v=MG3jGHnBVQs">
-                <i class="flaticon-ui"></i>
-            </a>
-        </div>
-        <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-lg-7">
-                    <div class="activites_info">
-                        <div class="section_title">
-                            <h3> <span>Watch Our Latest  </span><br>
-                                Activities</h3>
-                        </div>
-                        <p class="para_1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do 
-                            eiusmod tempor incididunt  ut labore dolore magna aliqua. 
-                            enim minim veniam, quis nostrud exercitation.</p class="para_1">
-                        <p class="para_2">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do 
-                            eiusmod tempor incididunt  ut labore dolore magna aliqua. 
-                            enim minim veniam, quis nostrud exercitation. tempor 
-                            incididunt  ut labore dolore magna aliqua. enim minim 
-                            veniam, quis nostrud exercitation.</p>
-                        <a href="#" data-scroll-nav='1' class="boxed-btn4">Donate Now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- latest_activites_area_end  -->
+   
 
     <!-- popular_causes_area_start  -->
     <div class="popular_causes_area section_padding">
@@ -364,8 +335,8 @@
                                 <i class="flaticon-calendar"></i>
                             </div>
                             <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
+                                <h3 class="counter">3</h3>
+                                <p>Lokasi Donor</p>
                             </div>
                         </div>
                     </div>
@@ -375,8 +346,8 @@
                                 <i class="flaticon-heart-beat"></i>
                             </div>
                             <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
+                                <h3 class="counter">840</h3>
+                                <p>Kantong Darah</p>
                             </div>
                         </div>
                     </div>
@@ -386,8 +357,8 @@
                                 <i class="flaticon-in-love"></i>
                             </div>
                             <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
+                                <h3 class="counter">9</h3>
+                                <p>Butuh Donor</p>
                             </div>
                         </div>
                     </div>
@@ -397,8 +368,8 @@
                                 <i class="flaticon-hug"></i>
                             </div>
                             <div class="events">
-                                <h3 class="counter">120</h3>
-                                <p>Finished Event</p>
+                                <h3 class="counter">50</h3>
+                                <p>Pendonor</p>
                             </div>
                         </div>
                     </div>
@@ -459,67 +430,6 @@
     </div>
     <!-- news__area_end  -->
 
-    <div data-scroll-index='1' class="make_donation_area section_padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb-55">
-                        <h3><span>Make a Donation</span></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <form action="#" class="donation_form">
-                        <div class="row align-items-center">
-                            <div class="col-md-4">
-                                <div class="single_amount">
-                                    <div class="input_field">
-                                        <div class="input-group">
-                                            <div class="input-group-prepend">
-                                              <span class="input-group-text" id="basic-addon1">$</span>
-                                            </div>
-                                            <input type="text" class="form-control" placeholder="40,200" aria-label="Username" aria-describedby="basic-addon1">
-                                          </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-8">
-                                <div class="single_amount">
-                                   <div class="fixed_donat d-flex align-items-center justify-content-between">
-                                       <div class="select_prise">
-                                           <h4>Select Amount:</h4>
-                                       </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="blns_1" name="radio-group" checked>
-                                            <label for="blns_1">10</label>
-                                        </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="blns_2" name="radio-group" checked>
-                                            <label for="blns_2">30</label>
-                                        </div>
-                                        <div class="single_doonate"> 
-                                            <input type="radio" id="Other" name="radio-group" checked>
-                                            <label for="Other">Other</label>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="donate_now_btn text-center">
-                        <a href="#" class="boxed-btn4">Donate Now</a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
     <!-- footer_start  -->
     <footer class="footer">
         <div class="footer_top">
@@ -532,7 +442,7 @@
                                     <img src="img/footer_logo.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
+                            <p class="address_text">Bergerak hidup sehat, <br> berbagi kehidupan,  <br> dan berbuat kebaikan
                             </p>
                             <div class="socail_links">
                                 <ul>
@@ -563,17 +473,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="#">Donate</a></li>
-                                <li><a href="#">Sponsor</a></li>
-                                <li><a href="#">Fundraise</a></li>
-                                <li><a href="#">Volunteer</a></li>
-                                <li><a href="#">Partner</a></li>
-                                <li><a href="#">Jobs</a></li>
-                            </ul>
+                            <
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -583,7 +483,7 @@
                             </h3>
                             <div class="contacts">
                                 <p>+2(305) 587-3407 <br>
-                                    info@loveuscharity.com <br>
+                                    blutspender@gmail.com <br>
                                     Flat 20, Reynolds Neck, North
                                     Helenaville, FV77 8WS
                                 </p>
@@ -637,7 +537,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="ti-heart" aria-hidden="true"></i> by me</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>

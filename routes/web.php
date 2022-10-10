@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/login', function () {
-    return view('login/login');
+    return view('login');
 });
 
 Route::get('/index', function () {
@@ -57,3 +57,12 @@ Route::get('/admin', function () {
 Route::get('/register', function () {
     return view('register');
 });
+
+Route::get('/forgot-password', function () {
+    return view('forgot-password');
+});
+
+Route::get('/profile', function () {
+    return view('profile');
+});
+
