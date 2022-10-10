@@ -58,7 +58,7 @@ Route::get('/forgot-password', function () {
     return view('forgot-password');
 });
 
-Route::get('/profile', function () {
+Route::get('/Profile', function () {
     return view('profile');
 });
 
