@@ -65,3 +65,19 @@ Route::get('/Profile', function () {
 Route::get('/Profile1', function () {
     return view('profilee');
 });
+
+Route::get('/singel-blog1', function () {
+    return view('singel-blog1');
+});
+
+Route::get('/singel-blog2', function () {
+    return view('singel-blog2');
+});
+
+Route::get('/singel-blog3', function () {
+    return view('singel-blog3');
+});
+
+Route::get('/singel-blog4', function () {
+    return view('singel-blog4');
+});
