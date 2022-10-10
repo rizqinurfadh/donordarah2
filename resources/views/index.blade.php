@@ -258,8 +258,8 @@
                                       </div>
                                 </div>
                                 <div class="balance d-flex justify-content-between align-items-center">
-                                    <span>Raised: $5000.00 </span>
-                                    <span>Goal: $9000.00 </span>
+                                    <span>Raised: 200 kantong </span>
+                                    <span>Goal: 2600 kantong </span>
                                 </div>
                                 <h4>RSGM Unair</h4>
                                 <p>Donor darah ini diselenggarakan 
@@ -284,8 +284,8 @@
                                       </div>
                                 </div>
                                 <div class="balance d-flex justify-content-between align-items-center">
-                                    <span>Raised: $5000.00 </span>
-                                    <span>Goal: $9000.00 </span>
+                                    <span>Raised: 400 kantong </span>
+                                    <span>Goal: 4200 kantong </span>
                                 </div>
                                 <h4>RSUD Dr.Moh.Soewandhi</h4>
                                 <p>Donor darah ini diselenggarakan 
@@ -310,8 +310,8 @@
                                       </div>
                                 </div>
                                 <div class="balance d-flex justify-content-between align-items-center">
-                                    <span>Raised: $5000.00 </span>
-                                    <span>Goal: $9000.00 </span>
+                                    <span>Raised: 240 kantong </span>
+                                    <span>Goal: 2400 kantong </span>
                                 </div>
                                 <h4>RSUD Dr.Soetomo</h4>
                                 <p>Donor darah ini diselenggarakan 
@@ -336,8 +336,8 @@
                                       </div>
                                 </div>
                                 <div class="balance d-flex justify-content-between align-items-center">
-                                    <span>Raised: $5000.00 </span>
-                                    <span>Goal: $9000.00 </span>
+                                    <span>Raised: 330 kantong </span>
+                                    <span>Goal: 3600 kantong </span>
                                 </div>
                                 <h4>RSUD Bhakti Dharma Husada</h4>
                                 <p>Donor darah ini diselenggarakan 
