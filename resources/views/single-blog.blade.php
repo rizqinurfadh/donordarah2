@@ -81,7 +81,7 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="index">home</a></li>
-                                        <li><a href="About">Profile</a></li>
+                                        <li><a href="Profile">Profile</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
@@ -112,8 +112,8 @@
             </div>
         </div>
     </header>
-  <!-- header-end -->
-
+    <!-- header-end -->
+    
   <!-- bradcam_area_start  -->
   <div class="bradcam_area breadcam_bg overlay d-flex align-items-center justify-content-center">
       <div class="container">
