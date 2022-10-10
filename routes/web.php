@@ -66,18 +66,18 @@ Route::get('/Profile1', function () {
     return view('profilee');
 });
 
-Route::get('/singel-blog1', function () {
+Route::get('/single-blog1', function () {
     return view('single-blog1');
 });
 
-Route::get('/singel-blog2', function () {
+Route::get('/single-blog2', function () {
     return view('single-blog2');
 });
 
-Route::get('/singel-blog3', function () {
+Route::get('/single-blog3', function () {
     return view('single-blog3');
 });
 
-Route::get('/singel-blog4', function () {
+Route::get('/single-blog4', function () {
     return view('single-blog4');
 });
