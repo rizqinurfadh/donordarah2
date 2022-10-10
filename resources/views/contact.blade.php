@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Charifit</title>
+    <title>Blutspender</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -42,8 +42,8 @@
                         <div class="col-xl-6 col-md-12 col-lg-8">
                             <div class="short_contact_list">
                                 <ul>
-                                    <li><a href="#"> <i class="fa fa-phone"></i> +1 (454) 556-5656</a></li>
-                                    <li><a href="#"> <i class="fa fa-envelope"></i>Yourmail@gmail.com</a></li>
+                                    <li><a href="#"> <i class="fa fa-phone"></i> +62 (454) 556-5656</a></li>
+                                    <li><a href="#"> <i class="fa fa-envelope"></i>blutspender@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -71,8 +71,8 @@
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="">
+                                <a href="index">
+                                    <img src="img/logo4.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -80,26 +80,26 @@
                             <div class="main-menu">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.html">home</a></li>
-                                        <li><a href="About.html">About</a></li>
+                                        <li><a href="index">home</a></li>
+                                        <li><a href="About">Profile</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="blog.html">blog</a></li>
-                                                <li><a href="single-blog.html">single-blog</a></li>
+                                                <li><a href="blog">blog</a></li>
+                                                <li><a href="single-blog">single-blog</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                        <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements.html">elements</a></li>
-                                                <li><a href="Cause.html">Cause</a></li>
+                                                <li><a href="elements">Stok Darah</a></li>
+                                                <li><a href="Cause">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="#">Make a Donate</a>
+                                        <a  href="register">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
@@ -120,7 +120,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3>Contact</h3>
+                        <h3>Butuh Donor</h3>
                     </div>
                 </div>
             </div>
@@ -247,7 +247,7 @@
                                     <img src="img/footer_logo.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
+                            <p class="address_text">Bergerak hidup sehat, <br> berbagi kehidupan,  <br> dan berbuat kebaikan
                             </p>
                             <div class="socail_links">
                                 <ul>
@@ -278,17 +278,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
-                            <h3 class="footer_title">
-                                Services
-                            </h3>
-                            <ul class="links">
-                                <li><a href="#">Donate</a></li>
-                                <li><a href="#">Sponsor</a></li>
-                                <li><a href="#">Fundraise</a></li>
-                                <li><a href="#">Volunteer</a></li>
-                                <li><a href="#">Partner</a></li>
-                                <li><a href="#">Jobs</a></li>
-                            </ul>
+                            
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -298,7 +288,7 @@
                             </h3>
                             <div class="contacts">
                                 <p>+2(305) 587-3407 <br>
-                                    info@loveuscharity.com <br>
+                                    blutspender@gmail.com <br>
                                     Flat 20, Reynolds Neck, North
                                     Helenaville, FV77 8WS
                                 </p>
@@ -319,10 +309,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Pertama Sejak Pandemi, 500 Bankir
+                                                Gelar Aksi Donor Darah Bersama</h4>
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Sep 29, 2022</span>
                                     </div>
                                 </li>
                                 <li>
@@ -333,10 +323,10 @@
                                     </div>
                                     <div class="info">
                                         <a href="#">
-                                            <h4>School for African 
-                                                Childrens</h4>
+                                            <h4>Hari Donor Darah Sedunia,
+                                                PMI Berhasil Lampaui Target</h4> 
                                         </a>
-                                        <span>Jun 12, 2019</span>
+                                        <span>Jun 14, 2022</span>
                                     </div>
                                 </li>
                             </ul>
@@ -352,7 +342,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="ti-heart" aria-hidden="true"></i> by me</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
                     </div>
