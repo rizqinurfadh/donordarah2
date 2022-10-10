@@ -473,7 +473,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-lg-2">
                         <div class="footer_widget">
-                            <
+                            
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">

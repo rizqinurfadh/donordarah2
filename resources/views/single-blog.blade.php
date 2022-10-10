@@ -135,48 +135,40 @@
                      <img class="img-fluid" src="img/blog/single_blog_1.png" alt="">
                   </div>
                   <div class="blog_details">
-                     <h2>Second divided from form fish beast made every of seas
-                        all gathered us saying he our
+                     <h2>Cek Gula Darah, Kolesterol, Asam Urat hanya Rp 35.000 Khusus Pendonor Darah 
                      </h2>
                      <ul class="blog-info-link mt-3 mb-4">
-                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                        <li><a href="#"><i class="fa fa-user"></i> healthy, Reblood</a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
                      </ul>
                      <p class="excert">
-                        MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                        should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-                        fraction of the camp price. However, who has the willpower
-                     </p>
+                     Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan 
+                     cek kesehatan untuk asam urat, gula darah dan kolesterol pada 
+                     bulan September hingga Oktober 2022 dengan jadwal berikut ini</p>
                      <p>
-                        MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                        should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-                        fraction of the camp price. However, who has the willpower to actually sit through a
-                        self-imposed MCSE training. who has the willpower to actually
+                     -Senin-Jumat, 07:00-21:00 di Klinik PMI Kota Surabaya, Jalan Tambaksari No. 49</br>
+                     -Sabtu-Minggu, 09:00-16:00 di UDD PMI Kota Surabaya, Jalan Embong Ploso No. 7-15
                      </p>
                      <div class="quote-wrapper">
                         <div class="quotes">
-                           MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                           should have to spend money on boot camp when you can get the MCSE study materials yourself at
-                           a fraction of the camp price. However, who has the willpower to actually sit through a
-                           self-imposed MCSE training.
+                        Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus 
+                        pendonor darah sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
                         </div>
                      </div>
                      <p>
-                        MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                        should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-                        fraction of the camp price. However, who has the willpower
+                        Cek kesehatan dilakukan setiap hari dengan kuota terbatas dan harga khusus 
+                        pendonor darah sebesar Rp 35.000, dan harga non-pendonor darah sebesar Rp 50.000.
                      </p>
                      <p>
-                        MCSE boot camps have its supporters and its detractors. Some people do not understand why you
-                        should have to spend money on boot camp when you can get the MCSE study materials yourself at a
-                        fraction of the camp price. However, who has the willpower to actually sit through a
-                        self-imposed MCSE training. who has the willpower to actually
+                        Ayo segera datang dan cek kesehatan kamu sekarang.
                      </p>
+                     Terima kasih dan salam sehat.
+                     <p>
                   </div>
                </div>
                <div class="navigation-top">
                   <div class="d-sm-flex justify-content-between text-center">
-                     <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 4
+                     <p class="like-info"><span class="align-middle"><i class="fa fa-heart"></i></span> Lily and 6
                         people like this</p>
                      <div class="col-sm-4 text-center my-2 my-sm-0">
                         <!-- <p class="comment-count"><span class="align-middle"><i class="fa fa-comment"></i></span> 06 Comments</p> -->
@@ -244,7 +236,7 @@
                   </div>
                </div>
                <div class="comments-area">
-                  <h4>05 Comments</h4>
+                  <h4>04 Comments</h4>
                   <div class="comment-list">
                      <div class="single-comment justify-content-between d-flex">
                         <div class="user justify-content-between d-flex">
