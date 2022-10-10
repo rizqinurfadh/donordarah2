@@ -135,8 +135,8 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: 400 kantong </span>
-                                <span>Goal: 4200 kantong </span>
+                                <span>Raised: 200 kantong </span>
+                                <span>Goal: 2600 kantong </span>
                             </div>
                             <a href="cause_details.html"><h4>RSGM Unair</h4></a>
                             <p>Donor darah ini diselenggarakan 
@@ -191,14 +191,14 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: 330 kantong</span>
-                                <span>Goal: 3600 kantong/span>
+                                <span>Raised: 240 kantong</span>
+                                <span>Goal: 2400 kantong</span>
                             </div>
-                            <a href="cause_details.html"> <h4>Water For All Children</h4></a>
-                           
-                            <p>The passage is attributed to an 
-                                unknown typesetter in the century 
-                                who is thought</p>
+                            <a href="cause_details.html"> <h4>RSUD Dr.Soetomo</h4></a>
+                            <p>Donor darah ini diselenggarakan 
+                                oleh PMI Kota Surabaya 
+                                bekerja sama dengan 
+                                RSUD Dr.Soetomo</p>
                             <a class="read_more" href="cause_details.html">Read More</a>
                         </div>
                     </div>
@@ -219,14 +219,14 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: $5000.00 </span>
-                                <span>Goal: $9000.00 </span>
+                                <span>Raised: 330 kantong </span>
+                                <span>Goal: 3600 kantong </span>
                             </div>
-                            <a href="cause_details.html"><h4>Help us to Send Food</h4></a>
-                            
-                            <p>The passage is attributed to an 
-                                unknown typesetter in the century 
-                                who is thought</p>
+                            <a href="cause_details.html"><h4>RSUD Bhakti Dharma Husada</h4></a>
+                            <p>Donor darah ini diselenggarakan 
+                                oleh PMI Kota Surabaya 
+                                bekerja sama dengan  
+                                RSUD Bhakti Dharma Husada</p>
                             <a class="read_more" href="cause_details.html">Read More</a>
                         </div>
                     </div>
@@ -247,14 +247,15 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: $5000.00 </span>
-                                <span>Goal: $9000.00 </span>
+                                <span>Raised: 100 kantong</span>
+                                <span>Goal: 1200 kantong </span>
                             </div>
-                            <a href="cause_details.html"><h4>Clothes For Everyone</h4></a>
+                            <a href="cause_details.html"><h4>RS Brawijaya</h4></a>
                             
-                            <p>The passage is attributed to an 
-                                unknown typesetter in the century 
-                                who is thought</p>
+                            <p>Donor darah ini diselenggarakan 
+                                oleh PMI Kota Surabaya 
+                                bekerja sama dengan  
+                                RS Brawijaya</p>
                             <a class="read_more" href="cause_details.html">Read More</a>
                         </div>
                     </div>
@@ -275,14 +276,15 @@
                                   </div>
                             </div>
                             <div class="balance d-flex justify-content-between align-items-center">
-                                <span>Raised: $5000.00 </span>
-                                <span>Goal: $9000.00 </span>
+                                <span>Raised: 500 kantong </span>
+                                <span>Goal: 1000 kantong </span>
                             </div>
-                            <a href="cause_details.html"><h4>Water For All Children</h4></a>
+                            <a href="cause_details.html"><h4>RS Bunda</h4></a>
                             
-                            <p>The passage is attributed to an 
-                                unknown typesetter in the century 
-                                who is thought</p>
+                            <p>Donor darah ini diselenggarakan 
+                                oleh PMI Kota Surabaya 
+                                bekerja sama dengan  
+                                RS Bunda</p>
                             <a class="read_more" href="cause_details.html">Read More</a>
                         </div>
                     </div>
