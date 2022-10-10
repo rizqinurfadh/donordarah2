@@ -67,17 +67,17 @@ Route::get('/Profile1', function () {
 });
 
 Route::get('/singel-blog1', function () {
-    return view('singel-blog1');
+    return view('single-blog1');
 });
 
 Route::get('/singel-blog2', function () {
-    return view('singel-blog2');
+    return view('single-blog2');
 });
 
 Route::get('/singel-blog3', function () {
-    return view('singel-blog3');
+    return view('single-blog3');
 });
 
 Route::get('/singel-blog4', function () {
-    return view('singel-blog4');
+    return view('single-blog4');
 });
