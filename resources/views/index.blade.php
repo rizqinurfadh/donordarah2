@@ -391,18 +391,16 @@
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/img-home/news/1.png" alt="">
+                                <img src="img/img-home/news/news1.png" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>July 18, 2019</span>
                                 <a href="single-blog.blade.php">
-                                    <h3>Pure Water Is More 
-                                        Essential</h3>
+                                    <h3>Gelar Aksi Donor Darah, Antusiasme Melebihi Ekspektasi</h3>
                                 </a>
-                                <p>The passage experienced a 
-                                    surge in popularity during the 
-                                    1960s when used it on their  
-                                    sheets, and again.</p>
+                                <p>Dalam acara ini, setidaknya lebih dari 30 
+                                    pendaftar yang ingin mendonorkan darahnya. 
+                                    </p>
                                 <a class="read_more" href="single-blog.blade.php">Read More</a>
                             </div>
                         </div>
