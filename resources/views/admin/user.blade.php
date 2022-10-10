@@ -94,7 +94,14 @@
                                                     </ul>
                                                     </li>
                                         </li>
-                                        <li><a href="contact">Butuh donor</a></li>
+                                        <li><a href="contact">Butuh donor<i class="ti-angle-down"></i></a>
+                                        <ul class="submenu"> 
+                                                    <li> <a href="adddetaili"> Add Detail</a></li>
+                                                    <li> <a href="viewdetail"> View Detail</a></li>
+                                                    <li> <a href="editdetail"> Edit Detail</a></li>
+                                                    <li> <a href="removedetail"> Remove Detail</a></li>
+                                                    </ul>
+                                    </li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
