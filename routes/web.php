@@ -51,6 +51,6 @@ Route::get('/contact', function () {
 
 
 Route::get('/admin', function () {
-    return view('admin');
+    return view('admin\pages\counter\dashboardcount.php');
 });
 
