@@ -151,7 +151,7 @@
                                 <p>Stok sel darah merah di UDD PMI Surabaya saat ini aman. 
                                     Ini karena banyak pendonor yang datang ke PMI maupun dari instansi hingga pendidikan.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Berita, detikJatim</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> News, detikJatim</a></li>
                                     <li><a href="#"><i class="fa fa-comments"></i> 0 Comments</a></li>
                                 </ul>
                             </div>
@@ -173,7 +173,7 @@
                                 <p>Sebanyak 514 kantong darah di Palang Merah Indonesia (PMI) Surabaya terinfeksi penyakit menular. 
                                     Ratusan kantong darah tersebut sudah dimusnahkan.</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Berita, detikJatim</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> News, detikJatim</a></li>
                                     <li><a href="#"><i class="fa fa-comments"></i> 02 Comments</a></li>
                                 </ul>
                             </div>
@@ -195,7 +195,7 @@
                                 <p>Kebiasaan kurang minum air mineral dapat menyebabkan penurunan kesehatan ginjal. 
                                     Gejala penurunan kesehatan ginjal dapat berupa rasa pegal di pinggang. </p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Kesehatan, Reblood</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Healthy, Reblood</a></li>
                                     <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                                 </ul>
                             </div>
@@ -217,7 +217,7 @@
                                 <p>Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan cek kesehatan untuk asam urat, 
                                     gula darah, dan kolesterol pada</p>
                                 <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Kesehatan, Reblood</a></li>
+                                    <li><a href="#"><i class="fa fa-user"></i> Healthy, Reblood</a></li>
                                     <li><a href="#"><i class="fa fa-comments"></i> 04 Comments</a></li>
                                 </ul>
                             </div>
@@ -269,13 +269,13 @@
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Kesehatan</p>
+                                        <p>Healthy</p>
                                         <p>(37)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Berita</p>
+                                        <p>News</p>
                                         <p>(10)</p>
                                     </a>
                                 </li>
