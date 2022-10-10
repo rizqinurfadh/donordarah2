@@ -427,15 +427,14 @@
                                 <img src="img/news/1.png" alt="">
                             </div>
                             <div class="newsinfo">
-                                <span>July 18, 2019</span>
+                                <span>September 10, 2022</span>
                                 <a href="single-blog.html">
-                                    <h3>Pure Water Is More 
-                                        Essential</h3>
+                                    <h3>Cek Gula Darah,Kolesterol,Asam Urat  
+                                        hanya Rp 35.000 Khusus Pendonor Darah</h3>
                                 </a>
-                                <p>The passage experienced a 
-                                    surge in popularity during the 
-                                    1960s when used it on their  
-                                    sheets, and again.</p>
+                                <p>Poliklinik PMI Kota Surabaya 
+                                    bekerjasama dengan Reblood 
+                                    mengadakan cek kesehatan</p>
                                 <a class="read_more" href="single-blog.html">Read More</a>
                             </div>
                         </div>
@@ -444,15 +443,13 @@
                                 <img src="img/news/2.png" alt="">
                             </div>
                             <div class="newsinfo">
-                                <span>July 18, 2019</span>
+                                <span>April 10, 2022</span>
                                 <a href="single-blog.html">
-                                    <h3>Pure Water Is More 
-                                        Essential</h3>
+                                    <h3>Donor Darah Dapat Service 
+                                        Motor Gratis, Caranya?</h3>
                                 </a>
-                                <p>The passage experienced a 
-                                    surge in popularity during the 
-                                    1960s when used it on their  
-                                    sheets, and again.</p>
+                                <p>Donor darah tidak cuma membantu pasien selamat dan pendonor sehat, 
+                                    tapi juga bisa bikin motor kamu makin ‘sehat’</p>
                                 <a class="read_more" href="single-blog.html">Read More</a>
                             </div>
                         </div>
