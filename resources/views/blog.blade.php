@@ -145,7 +145,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog1">
                                     <h2>Stok Darah di PMI Surabaya Aman,
                                         Golongan B Terbanyak</h2>
                                 </a>
@@ -168,7 +168,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog2">
                                     <h2>514 Pendonor di PMI Surabaya Masih Belum Tahu Terinfeksi Penyakit Menular</h2>
                                 </a>
                                 <p>Sebanyak 514 kantong darah di Palang Merah Indonesia (PMI) Surabaya terinfeksi penyakit menular. 
@@ -190,7 +190,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog3">
                                     <h2>Pemeriksaan Ginjal Harga Rp 51.000 Khusus Pejuang Donor Berlaku hingga September 2022</h2>
                                 </a>
                                 <p>Kebiasaan kurang minum air mineral dapat menyebabkan penurunan kesehatan ginjal. 
@@ -212,7 +212,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="single-blog4">
                                     <h2>Cek Gula Darah, Kolesterol, Asam Urat hanya Rp 35.000 di UTD PMI Kota Surabaya</h2>
                                 </a>
                                 <p>Poliklinik PMI Kota Surabaya bekerjasama dengan Reblood mengadakan cek kesehatan untuk asam urat, 
