@@ -107,6 +107,7 @@
           <div class="row">
               <div class="col-xl-12">
                   <div class="bradcam_text text-center">
+                  <br><br><br><br><br><br><br>
                       <h3>Single Blog</h3>
                   </div>
               </div>
