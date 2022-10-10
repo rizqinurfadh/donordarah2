@@ -81,3 +81,7 @@ Route::get('/single-blog3', function () {
 Route::get('/single-blog4', function () {
     return view('single-blog4');
 });
+
+Route::get('/home', function () {
+    return view('admin/user');
+});
