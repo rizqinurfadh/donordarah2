@@ -85,3 +85,68 @@ Route::get('/single-blog4', function () {
 Route::get('/home', function () {
     return view('admin/user');
 });
+
+Route::get('/addblog', function () {
+    return view('admin/addblog');
+});
+
+Route::get('/viewblog', function () {
+    return view('admin/viewblog');
+});
+
+Route::get('/removeblog', function () {
+    return view('admin/removeblog');
+});
+
+Route::get('/editblog', function () {
+    return view('admin/editblog');
+});
+
+Route::get('/addstok', function () {
+    return view('admin/addstok');
+});
+
+Route::get('/viewstok', function () {
+    return view('admin/viewstok');
+});
+
+Route::get('/removestok', function () {
+    return view('admin/removestok');
+});
+
+Route::get('/editstok', function () {
+    return view('admin/editstok');
+});
+
+Route::get('/addlokasi', function () {
+    return view('admin/addlokasi');
+});
+
+Route::get('/viewlokasi', function () {
+    return view('admin/viewlokasi');
+});
+
+Route::get('/removelokasi', function () {
+    return view('admin/removelokasi');
+});
+
+Route::get('/editlokasi', function () {
+    return view('admin/editlokasi');
+});
+
+
+Route::get('/adddetail', function () {
+    return view('admin/adddetail');
+});
+
+Route::get('/viewdetail', function () {
+    return view('admin/viewdetail');
+});
+
+Route::get('/removedetail', function () {
+    return view('admin/removedetail');
+});
+
+Route::get('/editdetail', function () {
+    return view('admin/editdetail');
+});
