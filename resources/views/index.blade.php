@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Charifit</title>
+    <title>Blutspender</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -80,26 +80,26 @@
                             <div class="main-menu">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.php">home</a></li>
-                                        <li><a href="About.blade.php">About</a></li>
+                                        <li><a href="index">home</a></li>
+                                        <li><a href="About">About</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="blog.html">blog</a></li>
-                                                <li><a href="single-blog.html">single-blog</a></li>
+                                                <li><a href="blog">blog</a></li>
+                                                <li><a href="single-blog">single-blog</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements.html">elements</a></li>
-                                                <li><a href="Cause.html">Cause</a></li>
+                                                <li><a href="elements">elements</a></li>
+                                                <li><a href="Cause">Cause</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a data-scroll-nav='1' href="#">Make a Donate</a>
+                                        <a data-scroll-nav='1' href="login">Make a Donate</a>
                                     </div>
                                 </div>
                             </div>
