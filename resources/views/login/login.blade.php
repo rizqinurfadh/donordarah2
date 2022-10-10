@@ -26,7 +26,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 order-md-2">
-          <img src="img\img-login\undraw_file_sync_ot38.svg" alt="Image" class="img-fluid">
+          <img src="img\img-login\login2.png" alt="Image" class="img-fluid">
         </div>
         <div class="col-md-6 contents">
           <div class="row justify-content-center">
@@ -47,15 +47,15 @@
                 
               </div>
               
-              <div class="d-flex mb-5 align-items-center">
-                <label class="control control--checkbox mb-0"><span class="caption">Remember me</span>
+              <div class="d-flex mb-5 align-items-center ">
+                <label class="control control--checkbox mb-0 "><span class="caption">Remember me</span>
                   <input type="checkbox" checked="checked"/>
                   <div class="control__indicator"></div>
                 </label>
                 <span class="ml-auto"><a href="#" class="forgot-pass">Forgot Password</a></span> 
               </div>
 
-              <input type="submit" value="Log In" class="btn text-white btn-block btn-primary">
+              <input type="submit" value="Log In" class="btn text-white btn-block btn-danger">
 
               <span class="d-block text-left my-4 text-muted"> or sign in with</span>
               
@@ -81,9 +81,9 @@
   </div>
 
   
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/js-login/jquery-3.3.1.min.js"></script>
+    <script src="js/js-login/popper.min.js"></script>
+    <script src="js/js-login/bootstrap.min.js"></script>
+    <script src="js/js-login/main.js"></script>
   </body>
 </html>
