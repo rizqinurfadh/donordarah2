@@ -497,7 +497,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img src="img/img-home/footer_logo.png" alt="">
+                                    <img src="img/img-home/footer_logo1.png" alt="">
                                 </a>
                             </div>
                             <p class="address_text">Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit, sed do <br> eiusmod tempor incididunt ut labore.
