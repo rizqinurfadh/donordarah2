@@ -85,7 +85,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                <li><a href="single-blog">single-blog</a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -113,7 +113,7 @@
         </div>
     </header>
     <!-- header-end -->
-    
+
     <!-- slider_area_start -->
     <div class="slider_area">
         <div class="single_slider  d-flex align-items-center slider_bg_1 overlay2">
