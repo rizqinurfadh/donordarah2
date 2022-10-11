@@ -60,21 +60,7 @@ Route::get('/Profile1', function () {
 });
 
 
-Route::get('/single-blog2', function () {
-    return view('single-blog2');
-});
 
-Route::get('/single-blog3', function () {
-    return view('single-blog3');
-});
-
-Route::get('/single-blog4', function () {
-    return view('single-blog4');
-});
-
-Route::get('/home', function () {
-    return view('admin/user');
-});
 
 Route::get('/addblog', function () {
     return view('admin/addblog');
