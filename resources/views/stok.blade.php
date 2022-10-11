@@ -36,7 +36,7 @@
     <!-- header-start -->
     <header>
         <div class="header-area ">
-            <div class="header-top_area">
+         <div class="header-top_area">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-6 col-md-12 col-lg-8">
@@ -48,25 +48,12 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                            <div class="social_media_links d-none d-lg-block">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-pinterest-p"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="sticky-header" class="main-header-area">
+             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
@@ -90,11 +77,11 @@
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements">Stok Darah</a></li>
-                                                <li><a href="Cause">Lokasi Donor</a></li>
+                                                <li><a href="stok">Stok Darah</a></li>
+                                                <li><a href="lokasi">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Butuh donor</a></li>
+                                        <li><a href="butuh">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
@@ -105,7 +92,7 @@
                             </div>
                         </div>
                         <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
+                           <div class="mobile_menu d-block d-lg-none"></div>
                         </div>
                     </div>
                 </div>
@@ -120,6 +107,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
+					<br><br><br><br><br><br><br>
                         <h3>Stok Darah</h3>
                     </div>
                 </div>

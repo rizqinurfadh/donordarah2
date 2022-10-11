@@ -36,7 +36,7 @@
     <!-- header-start -->
     <header>
         <div class="header-area ">
-            <div class="header-top_area">
+         <div class="header-top_area">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-6 col-md-12 col-lg-8">
@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <div id="sticky-header" class="main-header-area">
+             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
@@ -77,11 +77,11 @@
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements">Stok Darah</a></li>
-                                                <li><a href="Cause">Lokasi Donor</a></li>
+                                                <li><a href="stok">Stok Darah</a></li>
+                                                <li><a href="lokasi">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Butuh donor</a></li>
+                                        <li><a href="butuh">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
+                           <div class="mobile_menu d-block d-lg-none"></div>
                         </div>
                     </div>
                 </div>
@@ -126,8 +126,8 @@
     <div class="reson_area section_padding">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb-55">
+                <div class="col-lg-16">
+                    <div class="section_title text-center mb-">
                         <h3><span>Blutspender</span></h3>
                         <p>Bergerak hidup sehat, berbagi kebahagiaan,<br>
                             dan berbuat kebaikan</p>
@@ -139,7 +139,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/1.png" alt="">
+                                <img src="img/help/1.png" a lt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -191,14 +191,14 @@
     <div class="popular_causes_area section_padding">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6">
+                <div class="col-lg-16">
                     <div class="section_title text-center mb-55">
                         <h3><span>Lokasi Donor</span></h3>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-16">
                     <div class="causes_active owl-carousel">
                         <div class="single_cause">
                             <div class="thumb">
@@ -370,7 +370,7 @@
     <div class="news__area section_padding">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6">
+                <div class="col-lg-16">
                     <div class="section_title text-center mb-55">
                         <h3><span>News & Updates</span></h3>
                     </div>
