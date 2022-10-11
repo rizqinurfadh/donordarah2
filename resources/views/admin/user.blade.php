@@ -149,9 +149,7 @@
 
                 <p>untuk mengelolah blog</p>
               </div>
-              <div class="icon">
-                <i class="ion ion-bag"></i>
-              </div>
+              
               <a href="viewblog" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
@@ -164,9 +162,7 @@
 
                 <p>untuk mengelolah stok darah</p>
               </div>
-              <div class="icon">
-                <i class="ion ion-stats-bars"></i>
-              </div>
+              
               <a href="viewstok" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
@@ -179,9 +175,7 @@
 
                 <p>untuk mengelola lokasi</p>
               </div>
-              <div class="icon">
-                <i class="ion ion-person-add"></i>
-              </div>
+              
               <a href="viewlokasi" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
@@ -194,9 +188,7 @@
 
                 <p>untuk mengelola butuh donor</p>
               </div>
-              <div class="icon">
-                <i class="ion ion-pie-graph"></i>
-              </div>
+              
               <a href="viewbutuh" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
