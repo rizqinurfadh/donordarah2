@@ -15,11 +15,31 @@ class DonorController extends Controller{
     }
 
     public function blog(){
-        return view ('blog');
+        return view ('blog\blog');
     }
 
-    public function single-blog1(){
-        return view ('single-blog1');
+    public function singleblog1(){
+        return view ('blog\single-blog1');
+    }
+
+    public function singleblog2(){
+        return view ('blog\single-blog2');
+    }
+
+    public function singleblog3(){
+        return view ('blog\single-blog3');
+    }
+
+    public function singleblog4(){
+        return view ('blog\single-blog4');
+    }
+
+    public function stok(){
+        return view ('stok');
+    }
+
+    public function lokasi(){
+        return view ('lokasi');
     }
 
 

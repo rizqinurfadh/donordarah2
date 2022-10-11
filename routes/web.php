@@ -20,21 +20,19 @@ Route::get('/login', [DonorController::class,'login']);
 
 Route::get('/blog', [DonorController::class,'blog']);
 
-Route::get('/single-blog', function () {
-    return view('single-blog');
-});
+Route::get('single-blog1', [DonorController::class,'singleblog1']);
 
-Route::get('/stok', function () {
-    return view('stok');
-});
+Route::get('/single-blog2', [DonorController::class,'singleblog2']);
 
-Route::get('/lokasi', function () {
-    return view('lokasi');
-});
+Route::get('/single-blog3', [DonorController::class,'singleblog3']);
 
-Route::get('/cause_details', function () {
-    return view('cause_details'); 
-});
+
+Route::get('/single-blog4', [DonorController::class,'singleblog4']);
+
+Route::get('/stok', [DonorController::class,'stok']);
+
+Route::get('/lokasi', [DonorController::class,'lokasi']);
+
 
 Route::get('/contact', function () {
     return view('contact');
@@ -61,9 +59,6 @@ Route::get('/Profile1', function () {
     return view('profilee');
 });
 
-Route::get('/single-blog1', function () {
-    return view('single-blog1');
-});
 
 Route::get('/single-blog2', function () {
     return view('single-blog2');
