@@ -33,7 +33,7 @@ Route::get('/single-blog', function () {
     return view('single-blog');
 });
 
-Route::get('/stokdarah', function () {
+Route::get('/stok', function () {
     return view('stok');
 });
 
