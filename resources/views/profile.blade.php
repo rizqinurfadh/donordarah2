@@ -36,7 +36,7 @@
     <!-- header-start -->
     <header>
         <div class="header-area ">
-            <div class="header-top_area">
+         <div class="header-top_area">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-6 col-md-12 col-lg-8">
@@ -48,25 +48,12 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                            <div class="social_media_links d-none d-lg-block">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-pinterest-p"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="sticky-header" class="main-header-area">
+             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="col-xl-3 col-lg-3">
@@ -85,16 +72,16 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                               
+                                                
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements">Stok Darah</a></li>
-                                                <li><a href="Cause">Lokasi Donor</a></li>
+                                                <li><a href="stok">Stok Darah</a></li>
+                                                <li><a href="lokasi">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Butuh donor</a></li>
+                                        <li><a href="butuh">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
@@ -105,7 +92,7 @@
                             </div>
                         </div>
                         <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
+                           <div class="mobile_menu d-block d-lg-none"></div>
                         </div>
                     </div>
                 </div>
@@ -113,15 +100,15 @@
         </div>
     </header>
     <!-- header-end -->
-    <br>
+    <br><br><br><br>
     <div class="container mt-4 mb-4 p-3 d-flex justify-content-center"> 
-        <div class="card p-4"> 
+        <div class="card p-8"> 
             <div class=" image d-flex flex-column justify-content-center align-items-center"> 
                 <button class="btn btn-secondary"> 
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS52y5aInsxSm31CvHOFHWujqUx_wWTS9iM6s7BAm21oEN_RiGoog" alt="" height="100" width="100" />
-                </button> 
-                    <span class="name mt-3">Eleanor Pena</span> 
-                    <p class="idd">eleanorpena@gmail.com</p> 
+                </button> <br>
+                   <!-- <span class="name mt-3">Eleanor Pena</span> 
+                    <p class="idd">eleanorpena@gmail.com</p> -->
                     <div class="d-flex flex-row justify-content-center align-items-center gap-2"> 
                         <span class="idd1"></span> 
                     </div> <div class="d-flex flex-row justify-content-center align-items-center mt-3"> 

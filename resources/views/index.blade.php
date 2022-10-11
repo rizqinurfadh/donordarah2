@@ -77,11 +77,11 @@
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="elements">Stok Darah</a></li>
+                                                <li><a href="stok">Stok Darah</a></li>
                                                 <li><a href="lokasi">Lokasi Donor</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="contact">Butuh donor</a></li>
+                                        <li><a href="butuh">Butuh donor</a></li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">

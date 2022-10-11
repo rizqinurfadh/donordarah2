@@ -33,8 +33,8 @@ Route::get('/single-blog', function () {
     return view('single-blog');
 });
 
-Route::get('/elements', function () {
-    return view('elements');
+Route::get('/stokdarah', function () {
+    return view('stok');
 });
 
 Route::get('/lokasi', function () {
