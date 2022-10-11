@@ -158,7 +158,7 @@
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">Add Blood Details</h1>
+                    <h1 class="page-header">Formulir Butuh Donor</h1>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
@@ -214,11 +214,21 @@
                                             <input class="form-control" placeholder="Blood Quantity" type="number" name="bloodqty" required>
                                         </div>
 
+                
                                         <div class="form-group">
-                                                <label>Collection Date</label>
-                                                <input class="form-control" type="date" name="collection" required>
-                                            </div>
-                                       
+                                        <label>Location</label>
+                                        <div class="form-select" id="default-select"">
+                                            <select>
+												<option value=" 1">..</option>
+									        <option value="1">RS Universitas Airlangga</option>
+									        <option value="1">RSUD Dr.Moh.Soewandhi</option>
+									        <option value="1">RSUD Dr.Soetomo</option>
+									        <option value="1">RSUD Bhakti Dharma Husada</option>
+                                            <option value="1">RS Brawijaya</option>
+                                            <option value="1">RS Bunda</option> 
+									</select>
+								</div>
+							</div>
                                     
 										
                                         <button type="submit" class="btn btn-success btn-default" style="border-radius: 0%;">Submit Form</button>
