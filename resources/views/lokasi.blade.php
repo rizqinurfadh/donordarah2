@@ -139,11 +139,11 @@
                                 <span>Raised: 200 kantong </span>
                                 <span>Goal: 2600 kantong </span>
                             </div>
-                            <a href="cause_details.html"><h4>RSGM Unair</h4></a>
+                            <a href="cause_details.html"><h4>Rumah Sakit Universitas Airlangga</h4></a>
                             <p>Donor darah ini diselenggarakan 
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan 
-                                RSGM Unair</p>
+                                Rumah Sakit Universitas Airlangga</p>
                             <a class="read_more" href="cause_details.html">Read More</a>
                         </div>
                     </div>
