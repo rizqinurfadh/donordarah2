@@ -140,11 +140,11 @@
                                 <span>Goal: 2600 kantong </span>
                             </div>
                             <a href="cause_details.html"><h4>Rumah Sakit Universitas Airlangga</h4></a>
-                            <p>Donor darah ini diselenggarakan 
+                            <p> diselenggarakan 
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan 
-                                Rumah Sakit Universitas Airlangga</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                                RS UA</p>
+                            <a class="read_more" href="rsua">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan  
                                 RSUD Dr.Moh.Soewandhi</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                            <a class="read_more" href="suwandi">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -200,7 +200,7 @@
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan 
                                 RSUD Dr.Soetomo</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                            <a class="read_more" href="sutomo">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan  
                                 RSUD Bhakti Dharma Husada</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                            <a class="read_more" href="darmahusada">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan  
                                 RS Brawijaya</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                            <a class="read_more" href="brawijaya">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -286,7 +286,7 @@
                                 oleh PMI Kota Surabaya 
                                 bekerja sama dengan  
                                 RS Bunda</p>
-                            <a class="read_more" href="cause_details.html">Read More</a>
+                            <a class="read_more" href="bunda">Read More</a>
                         </div>
                     </div>
                 </div>

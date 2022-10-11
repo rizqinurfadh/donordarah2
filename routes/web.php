@@ -154,3 +154,27 @@ Route::get('/removedetail', function () {
 Route::get('/editdetail', function () {
     return view('admin/editdetail');
 });
+
+Route::get('/brawijaya', function () {
+    return view('lokasi\brawijaya');
+});
+
+Route::get('/bunda', function () {
+    return view('lokasi\bunda');
+});
+
+Route::get('/darmahusada', function () {
+    return view('lokasi\darmahusada');
+});
+
+Route::get('/rsua', function () {
+    return view('lokasi\rsua');
+});
+
+Route::get('/sutomo', function () {
+    return view('lokasi\sutomo');
+});
+
+Route::get('suwandi', function () {
+    return view('lokasi\suwandi');
+});
