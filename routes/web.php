@@ -39,8 +39,12 @@ Route::get('/contact', function () {
 });
 
 
+Route::get('/admin1', function () {
+    return view('admin2');
+});
+
 Route::get('/admin', function () {
-    return view('admin');
+    return view('admin/admin');
 });
 
 Route::get('/register', function () {
