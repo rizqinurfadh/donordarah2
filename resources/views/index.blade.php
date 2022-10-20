@@ -140,7 +140,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/1.png" a lt="">
+                                <img src="img/help/3.jpeg" a lt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -155,7 +155,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/2.png" alt="">
+                                <img src="img/help/4.jpeg" a lt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -170,7 +170,7 @@
                     <div class="single_reson">
                         <div class="thum">
                             <div class="thum_1">
-                                <img src="img/help/3.png" alt="">
+                                <img src="img/help/5.jpeg" alt="">
                             </div>
                         </div>
                         <div class="help_content">
@@ -203,7 +203,7 @@
                     <div class="causes_active owl-carousel">
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/1.png" alt="">
+                                <img src="img/causes/11.jpg" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -229,7 +229,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/2.png" alt="">
+                                <img src="img/causes/12.jpg" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
@@ -255,7 +255,7 @@
                         </div>
                         <div class="single_cause">
                             <div class="thumb">
-                                <img src="img/causes/3.png" alt="">
+                                <img src="img/causes/13.jpg" alt="">
                             </div>
                             <div class="causes_content">
                                 <div class="custom_progress_bar">
