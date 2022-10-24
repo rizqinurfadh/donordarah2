@@ -378,11 +378,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
+                
                     <div class="news_active owl-carousel">
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/news/1.png" alt="">
+                                <img src="img/news/111.jpg" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>September 10, 2022</span>
@@ -398,7 +398,7 @@
                         </div>
                         <div class="single__blog d-flex align-items-center">
                             <div class="thum">
-                                <img src="img/news/2.png" alt="">
+                                <img src="img/news/222.jpeg" alt="">
                             </div>
                             <div class="newsinfo">
                                 <span>April 10, 2022</span>
@@ -467,7 +467,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/news/news_1.png" alt="">
+                                            <img src="img/news/news1.jpeg" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -481,7 +481,7 @@
                                 <li>
                                     <div class="thumb">
                                         <a href="#">
-                                            <img src="img/news/news_2.png" alt="">
+                                            <img src="img/news/news2.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="info">
