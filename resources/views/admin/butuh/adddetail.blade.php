@@ -175,43 +175,40 @@
                                     <form role="form" action="addedblood.php" method="post">
                                      
                                         <div class="form-group">
-                                            <label>Enter Full Name</label>
+                                            <label>Masukkan Nama Lengkap</label>
                                             <input class="form-control" type="text" placeholder="Harry Den" name="name" required>
                                         </div>
                                         
                                         <div class="form-group">
-                                            <label>Gender [ M/F ]</label>
+                                            <label>Jenis Kelamin [ M/F ]</label>
                                             <input class="form-control" placeholder="M or F" name="gender" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Enter Date of birth</label>
+                                            <label>Tanggal Lahir</label>
                                             <input class="form-control" type="date" name="dob" required>
                                         </div>
 
-                                        <div class="form-group">
-                                            <label>Enter Weight</label>
-                                            <input class="form-control" placeholder="Weight" type="number" name="weight" required>
-                                        </div>
+                                       
 
                                         <div class="form-group">
-                                            <label>Enter Blood Group</label>
+                                            <label>Masukkan Golongan Darah</label>
                                             <input class="form-control" placeholder="Eg: B+" name="bloodgroup" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Enter Address</label>
-                                            <input class="form-control" placeholder="Address" type="text" name="address" required>
+                                            <label>Masukkan Alamat Lengkap</label>
+                                            <input class="form-control" placeholder="Alamat" type="text" name="address" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Enter Contact Number</label>
-                                            <input class="form-control" placeholder="Contact Number" type="number" name="contact" required>
+                                            <label>Masukkan kontak hp</label>
+                                            <input class="form-control" placeholder="no handphone" type="number" name="contact" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Blood Quantity</label>
-                                            <input class="form-control" placeholder="Blood Quantity" type="number" name="bloodqty" required>
+                                            <label>Berat Darah</label>
+                                            <input class="form-control" placeholder="Berat darah" type="number" name="bloodqty" required>
                                         </div>
 
                 
@@ -289,4 +286,6 @@ footer p {
 	</style>
 
 </html>
+
+
 

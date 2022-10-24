@@ -67,68 +67,68 @@ Route::get('/Profile1', function () {
 
 
 Route::get('/addblog', function () {
-    return view('admin/addblog');
+    return view('admin/blog/addblog');
 });
 
 Route::get('/viewblog', function () {
-    return view('admin/viewblog');
+    return view('admin/blog/viewblog');
 });
 
 Route::get('/removeblog', function () {
-    return view('admin/removeblog');
+    return view('admin/blog/removeblog');
 });
 
 Route::get('/editblog', function () {
-    return view('admin/editblog');
+    return view('admin/blog/editblog');
 });
 
 Route::get('/addstok', function () {
-    return view('admin/addstok');
+    return view('admin/stok/addstok');
 });
 
 Route::get('/viewstok', function () {
-    return view('admin/viewstok');
+    return view('admin/stok/viewstok');
 });
 
 Route::get('/removestok', function () {
-    return view('admin/removestok');
+    return view('admin/stok/removestok');
 });
 
 Route::get('/editstok', function () {
-    return view('admin/editstok');
+    return view('admin/stok/editstok');
 });
 
 Route::get('/addlokasi', function () {
-    return view('admin/addlokasi');
+    return view('admin/lokasi/addlokasi');
 });
 
 Route::get('/viewlokasi', function () {
-    return view('admin/viewlokasi');
+    return view('admin/lokasi/viewlokasi');
 });
 
 Route::get('/removelokasi', function () {
-    return view('admin/removelokasi');
+    return view('admin/lokasi/removelokasi');
 });
 
 Route::get('/editlokasi', function () {
-    return view('admin/editlokasi');
+    return view('admin/lokasi/editlokasi');
 });
 
 
 Route::get('/adddetail', function () {
-    return view('admin/adddetail');
+    return view('admin/butuh/adddetail');
 });
 
 Route::get('/viewdetail', function () {
-    return view('admin/viewdetail');
+    return view('admin/butuh/viewdetail');
 });
 
 Route::get('/removedetail', function () {
-    return view('admin/removedetail');
+    return view('admin/butuh/removedetail');
 });
 
 Route::get('/editdetail', function () {
-    return view('admin/editdetail');
+    return view('admin/butuh/editdetail');
 });
 
 Route::get('/brawijaya', function () {
