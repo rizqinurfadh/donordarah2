@@ -115,3 +115,131 @@
         </div>
     </header>
     <!-- header-end -->
+
+</br>
+    <div class="section-top-border">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-15">
+                    <div class="section_title text-center mb-55">
+                        <h3><span>Data Butuh Donor</span></h3></br>
+				
+
+
+                        <!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/A.style.css.pagespeed.cf.PlwJDa5bmm.css">
+<script nonce="b116b0b9-e054-4280-82da-a4e6079ede0e">(function(w,d){!function(Z,_,ba,bb){Z.zarazData=Z.zarazData||{};Z.zarazData.executed=[];Z.zaraz={deferred:[],listeners:[]};Z.zaraz.q=[];Z.zaraz._f=function(bc){return function(){var bd=Array.prototype.slice.call(arguments);Z.zaraz.q.push({m:bc,a:bd})}};for(const be of["track","set","debug"])Z.zaraz[be]=Z.zaraz._f(be);Z.zaraz.init=()=>{var bf=_.getElementsByTagName(bb)[0],bg=_.createElement(bb),bh=_.getElementsByTagName("title")[0];bh&&(Z.zarazData.t=_.getElementsByTagName("title")[0].text);Z.zarazData.x=Math.random();Z.zarazData.w=Z.screen.width;Z.zarazData.h=Z.screen.height;Z.zarazData.j=Z.innerHeight;Z.zarazData.e=Z.innerWidth;Z.zarazData.l=Z.location.href;Z.zarazData.r=_.referrer;Z.zarazData.k=Z.screen.colorDepth;Z.zarazData.n=_.characterSet;Z.zarazData.o=(new Date).getTimezoneOffset();Z.zarazData.q=[];for(;Z.zaraz.q.length;){const bl=Z.zaraz.q.shift();Z.zarazData.q.push(bl)}bg.defer=!0;for(const bm of[localStorage,sessionStorage])Object.keys(bm||{}).filter((bo=>bo.startsWith("_zaraz_"))).forEach((bn=>{try{Z.zarazData["z_"+bn.slice(7)]=JSON.parse(bm.getItem(bn))}catch{Z.zarazData["z_"+bn.slice(7)]=bm.getItem(bn)}}));bg.referrerPolicy="origin";bg.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(Z.zarazData)));bf.parentNode.insertBefore(bg,bf)};["complete","interactive"].includes(_.readyState)?zaraz.init():Z.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,0,"script");})(window,document);</script></head>
+<body>
+<section class="ftco-section">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-md-6 text-center mb-5">
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+
+<div class="table-wrap">
+<table class="table">
+<thead class="thead-primary">
+<tr>
+<th>Nama Lengkap</th>
+<th>Jenis Kelamin</th>
+<th>Tanggal Lahir</th>
+<th>Golongan Darah</th>
+<th>Alamat</th>
+<th>No Handphone</th>
+<th>Jenis Donor</th>
+<th>Lokasi</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="scope">Untung Prasetya</th>
+<td>Laki-laki</td>
+<td>01-01-1998</td>
+<td>AB+</td>
+<td>Surabaya</td>
+<td>083456789110</td>
+<td>Donor Darah Biasa</td>
+<td>RS Unair</td>
+<td><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+<tr>
+<th scope="row" class="scope">Ajas</th>
+<td>Laki-laki</td>
+<td>02-02-1997</td>
+<td>A+</td>
+<td>Surabaya</td>
+<td>081243216578</td>
+<td>Donor Darah Biasa</td>
+<td>RS Dr.Soetomo</td>
+<td><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+<tr>
+<th scope="row" class="scope">Ayu Intan</th>
+<td>Perempuan</td>
+<td>03-03-1999</td>
+<td>O+</td>
+<td>Sidoarjo</td>
+<td>085789043216</td>
+<td>Donor Darah Biasa</td>
+<td>RS Unair</td>
+<td><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+<tr>
+<th scope="row" class="scope">Endang Larasati</th>
+<td>Perempuan</td>
+<td>04-04-1998</td>
+<td>B+</td>
+<td>Surabaya</td>
+<td>087746821422</td>
+<td>Donor Darah Biasa</td>
+<td>RS Unair</td>
+<td><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+<tr>
+<th scope="row" class="scope">Dewi Rosmala</th>
+<td>Perempuan</td>
+<td>05-05-1995</td>
+<td>A+</td>
+<td>Surabaya</td>
+<td>081456111020</td>
+<td>Donor Darah Biasa</td>
+<td>RS Bunda</td>
+<td><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+<tr>
+<th scope="row" class="scope border-bottom-0">Maswil</th>
+<td class="border-bottom-0">Laki-laki</td>
+<td class="border-bottom-0">06-06-1996</td>
+<td class="border-bottom-0">A+</td>
+<td class="border-bottom-0">Sidoarjo</td>
+<td class="border-bottom-0">082212345678</td>
+<td class="border-bottom-0">Donor Darah Plasma</td>
+<td class="border-bottom-0">RS Dr.Soetomo</td>
+<td class="border-bottom-0"><a href="#" class="btn btn-primary">View</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js+bootstrap.min.js+main.js.pagespeed.jc.mGo61WuhWO.js"></script><script>eval(mod_pagespeed_VlMY9A_Ej6);</script>
+<script>eval(mod_pagespeed_Jrc1mCtwoH);</script>
+<script>eval(mod_pagespeed_p4wjUenRL9);</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"75f36b2eed0d1a6a","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2022.10.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+                        
