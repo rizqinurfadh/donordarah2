@@ -70,8 +70,7 @@
                                             <ul class="submenu">
                                                 <li><a href="addblog">Add blog</a></li>
                                                 <li><a href="viewblog">View blog</a></li>
-                                                <li><a href="editblog">Edit blog</a></li>
-                                                <li><a href="removeblog">Remove blog</a></li>
+                                             
                                                 
                                             </ul>
                                         </li>
@@ -79,15 +78,13 @@
                                             <ul class="submenu"> 
                                                     <li> <a href="addstok"> Add Stok</a></li>
                                                     <li> <a href="viewstok"> View Stok</a></li>
-                                                    <li> <a href="editstok"> Edit Stok</a></li>
-                                                    <li> <a href="removestok"> Remove Stok</a></li>
+                                             
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu"> 
                                                     <li> <a href="addlokasi"> Add Lokasi</a></li>
                                                     <li> <a href="viewlokasi"> View Lokasi</a></li>
-                                                    <li> <a href="editlokasi"> Edit Lokasi</a></li>
-                                                    <li> <a href="removelokasi"> Remove Lokasi</a></li>
+                                                  
                                                     </ul>
                                                     </li>
                                         </li>
@@ -95,8 +92,7 @@
                                         <ul class="submenu"> 
                                                     <li> <a href="adddetail"> Add Detail</a></li>
                                                     <li> <a href="viewdetail"> View Detail</a></li>
-                                                    <li> <a href="editdetail"> Edit Detail</a></li>
-                                                    <li> <a href="removedetail"> Remove Detail</a></li>
+                                               
                                                     </ul>
                                     </li>
                                     </ul>
