@@ -14,8 +14,7 @@ class CreateDatadonor extends Migration
     public function up()
     {
         Schema::create('datadonor', function (Blueprint $table) {
-            $table->id('id_donor');
-            $table->id('id_formulir');
+            $table->id();
             $table->date('tanggal_donor');
             $table->string('lokasi');
             $table->timestamps();

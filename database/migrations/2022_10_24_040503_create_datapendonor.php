@@ -14,8 +14,8 @@ class CreateDatapendonor extends Migration
     public function up()
     {
         Schema::create('datapendonor', function (Blueprint $table) {
-            $table->id('id_pendonor');
-            $table->id('id_formulir');
+            $table->id();
+           
         });
     }
 
