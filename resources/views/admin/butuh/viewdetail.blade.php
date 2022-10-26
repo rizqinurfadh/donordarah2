@@ -126,7 +126,7 @@
 				
 
 
-                        <!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
 
@@ -158,7 +158,8 @@
 <th>No Handphone</th>
 <th>Jenis Donor</th>
 <th>Lokasi</th>
-<th>Status</th>
+<th></th>
+<th></th> 
 </tr>
 </thead>
 <tbody>
@@ -171,7 +172,8 @@
 <td>083456789110</td>
 <td>Donor Darah Biasa</td>
 <td>RS Unair</td>
-<td><a href="#" class="btn btn-primary">View</a></td>
+<td><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td><a href="#" class="btn btn-primary">Hapus</a></td>
 </tr>
 <tr>
 <th scope="row" class="scope">Ajas</th>
@@ -182,7 +184,8 @@
 <td>081243216578</td>
 <td>Donor Darah Biasa</td>
 <td>RS Dr.Soetomo</td>
-<td><a href="#" class="btn btn-primary">View</a></td>
+<td><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td><a href="#" class="btn btn-primary">Hapus</a></td>
 </tr>
 <tr>
 <th scope="row" class="scope">Ayu Intan</th>
@@ -193,7 +196,8 @@
 <td>085789043216</td>
 <td>Donor Darah Biasa</td>
 <td>RS Unair</td>
-<td><a href="#" class="btn btn-primary">View</a></td>
+<td><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td><a href="#" class="btn btn-primary">Hapus</a></td>
 </tr>
 <tr>
 <th scope="row" class="scope">Endang Larasati</th>
@@ -204,7 +208,8 @@
 <td>087746821422</td>
 <td>Donor Darah Biasa</td>
 <td>RS Unair</td>
-<td><a href="#" class="btn btn-primary">View</a></td>
+<td><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td><a href="#" class="btn btn-primary">Hapus</a></td>
 </tr>
 <tr>
 <th scope="row" class="scope">Dewi Rosmala</th>
@@ -215,7 +220,8 @@
 <td>081456111020</td>
 <td>Donor Darah Biasa</td>
 <td>RS Bunda</td>
-<td><a href="#" class="btn btn-primary">View</a></td>
+<td><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td><a href="#" class="btn btn-primary">Hapus</a></td>
 </tr>
 <tr>
 <th scope="row" class="scope border-bottom-0">Maswil</th>
@@ -226,7 +232,8 @@
 <td class="border-bottom-0">082212345678</td>
 <td class="border-bottom-0">Donor Darah Plasma</td>
 <td class="border-bottom-0">RS Dr.Soetomo</td>
-<td class="border-bottom-0"><a href="#" class="btn btn-primary">View</a></td>
+<td class="border-bottom-0"><a href="editdetail" class="btn btn-primary">Edit</a></td>
+<td class="border-bottom-0"><a href="#" class="btn btn-primary">Hapus</a></td> 
 </tr>
 </tbody>
 </table>

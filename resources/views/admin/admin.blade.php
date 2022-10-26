@@ -91,7 +91,7 @@
                                                 <li><a href="addblog">Add blog</a></li>
                                                 <li><a href="viewblog">View blog</a></li>
                                                 <li><a href="editblog">Edit blog</a></li>
-                                                <li><a href="removeblog">Remove blog</a></li>
+                                               
                                                 
                                             </ul>
                                         </li>
@@ -100,14 +100,14 @@
                                                     <li> <a href="addstok"> Add Stok</a></li>
                                                     <li> <a href="viewstok"> View Stok</a></li>
                                                     <li> <a href="editstok"> Edit Stok</a></li>
-                                                    <li> <a href="removestok"> Remove Stok</a></li>
+                                                  
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu"> 
                                                     <li> <a href="addlokasi"> Add Lokasi</a></li>
                                                     <li> <a href="viewlokasi"> View Lokasi</a></li>
                                                     <li> <a href="editlokasi"> Edit Lokasi</a></li>
-                                                    <li> <a href="removelokasi"> Remove Lokasi</a></li>
+                                                    
                                                     </ul>
                                                     </li>
                                         </li>
@@ -116,7 +116,7 @@
                                                     <li> <a href="adddetail"> Add Detail</a></li>
                                                     <li> <a href="viewdetail"> View Detail</a></li>
                                                     <li> <a href="editdetail"> Edit Detail</a></li>
-                                                    <li> <a href="removedetail"> Remove Detail</a></li>
+                                                   
                                                     </ul>
                                     </li>
                                     </ul>
@@ -147,10 +147,10 @@
               <div class="inner">
                 <h3>Blog</h3>
 
-                <p>untuk mengelolah blog</p>
+                <p>untuk mengelola blog</p>
               </div>
               
-              <a href="viewblog" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="viewblog" class="small-box-footer">More info </a>
             </div>
           </div>
           <!-- ./col -->
@@ -160,10 +160,10 @@
               <div class="inner">
                 <h3>Stok Darah<sup style="font-size: 20px"></sup></h3>
 
-                <p>untuk mengelolah stok darah</p>
+                <p>untuk mengelola stok darah</p>
               </div>
               
-              <a href="viewstok" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="viewstok" class="small-box-footer">More info</a>
             </div>
           </div>
           <!-- ./col -->
@@ -176,7 +176,7 @@
                 <p>untuk mengelola lokasi</p>
               </div>
               
-              <a href="viewlokasi" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="viewlokasi" class="small-box-footer">More info </a>
             </div>
           </div>
           <!-- ./col -->
@@ -189,8 +189,8 @@
                 <p>untuk mengelola butuh donor</p>
               </div>
               
-              <a href="viewbutuh" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="viewdetail" class="small-box-footer">More info </a>
             </div>
           </div>
-          <!-- ./col -->
+          <!-- ./col --> 
         
