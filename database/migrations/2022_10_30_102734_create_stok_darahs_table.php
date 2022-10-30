@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateStokDarahsTable extends Migration
+class CreateStokdarah extends Migration
 {
     /**
      * Run the migrations.
@@ -13,8 +13,11 @@ class CreateStokDarahsTable extends Migration
      */
     public function up()
     {
-        Schema::create('stok_darahs', function (Blueprint $table) {
+        Schema::create('stokdarah', function (Blueprint $table) {
             $table->id();
+            $table->string('jenis_tranfusi_darah');
+            $table->string('golongan_darah');
+            $table->string('jumlah_stok_darah');
             $table->timestamps();
         });
     }
@@ -26,6 +29,6 @@ class CreateStokDarahsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('stok_darahs');
+        Schema::dropIfExists('stokdarah');
     }
 }

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePeransTable extends Migration
+class CreatePeran extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,9 @@ class CreatePeransTable extends Migration
      */
     public function up()
     {
-        Schema::create('perans', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+        Schema::create('peran', function (Blueprint $table) {
+            $table->id('');
+            $table->string('nama_peran');
         });
     }
 
@@ -26,6 +26,6 @@ class CreatePeransTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('perans');
+        Schema::dropIfExists('peran');
     }
 }

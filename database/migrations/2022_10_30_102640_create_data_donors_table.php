@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateDataDonorsTable extends Migration
+class CreateDatadonor extends Migration
 {
     /**
      * Run the migrations.
@@ -13,8 +13,10 @@ class CreateDataDonorsTable extends Migration
      */
     public function up()
     {
-        Schema::create('data_donors', function (Blueprint $table) {
+        Schema::create('datadonor', function (Blueprint $table) {
             $table->id();
+            $table->date('tanggal_donor');
+            $table->string('lokasi');
             $table->timestamps();
         });
     }
@@ -26,6 +28,6 @@ class CreateDataDonorsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('data_donors');
+        Schema::dropIfExists('datadonor');
     }
 }
