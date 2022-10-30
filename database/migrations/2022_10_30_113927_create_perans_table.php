@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateDatapendonor extends Migration
+class CreatePeransTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,9 @@ class CreateDatapendonor extends Migration
      */
     public function up()
     {
-        Schema::create('datapendonor', function (Blueprint $table) {
+        Schema::create('perans', function (Blueprint $table) {
             $table->id();
-           
+            $table->string('nama_peran');
         });
     }
 
@@ -26,6 +26,7 @@ class CreateDatapendonor extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('datapendonor');
+        Schema::dropIfExists('perans');
     }
 }
+

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateFormulirdonor extends Migration
+class CreateFormulirDonorsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,7 +13,7 @@ class CreateFormulirdonor extends Migration
      */
     public function up()
     {
-        Schema::create('formulirdonor', function (Blueprint $table) {
+        Schema::create('formulir_donors', function (Blueprint $table) {
             $table->id();
             $table->string('name');
             $table->date('tanggal_lahir');
@@ -33,7 +33,6 @@ class CreateFormulirdonor extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('formulirdonor');
+        Schema::dropIfExists('formulir_donors');
     }
 }
-
