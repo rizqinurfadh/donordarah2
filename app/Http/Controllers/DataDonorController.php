@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\user1;
-use App\Http\Requests\Storeuser1Request;
-use App\Http\Requests\Updateuser1Request;
+use App\Models\dataDonor;
+use App\Http\Requests\StoredataDonorRequest;
+use App\Http\Requests\UpdatedataDonorRequest;
 
-class User1Controller extends Controller
+class DataDonorController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -31,10 +31,10 @@ class User1Controller extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\Storeuser1Request  $request
+     * @param  \App\Http\Requests\StoredataDonorRequest  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Storeuser1Request $request)
+    public function store(StoredataDonorRequest $request)
     {
         //
     }
@@ -42,10 +42,10 @@ class User1Controller extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\user1  $user1
+     * @param  \App\Models\dataDonor  $dataDonor
      * @return \Illuminate\Http\Response
      */
-    public function show(user1 $user1)
+    public function show(dataDonor $dataDonor)
     {
         //
     }
@@ -53,10 +53,10 @@ class User1Controller extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\user1  $user1
+     * @param  \App\Models\dataDonor  $dataDonor
      * @return \Illuminate\Http\Response
      */
-    public function edit(user1 $user1)
+    public function edit(dataDonor $dataDonor)
     {
         //
     }
@@ -64,11 +64,11 @@ class User1Controller extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\Updateuser1Request  $request
-     * @param  \App\Models\user1  $user1
+     * @param  \App\Http\Requests\UpdatedataDonorRequest  $request
+     * @param  \App\Models\dataDonor  $dataDonor
      * @return \Illuminate\Http\Response
      */
-    public function update(Updateuser1Request $request, user1 $user1)
+    public function update(UpdatedataDonorRequest $request, dataDonor $dataDonor)
     {
         //
     }
@@ -76,10 +76,10 @@ class User1Controller extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\user1  $user1
+     * @param  \App\Models\dataDonor  $dataDonor
      * @return \Illuminate\Http\Response
      */
-    public function destroy(user1 $user1)
+    public function destroy(dataDonor $dataDonor)
     {
         //
     }

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateStokdarah extends Migration
+class CreateDataPendonorsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,11 +13,8 @@ class CreateStokdarah extends Migration
      */
     public function up()
     {
-        Schema::create('stokdarah', function (Blueprint $table) {
-            $table->id('id_darah');
-            $table->string('jenis_tranfusi_darah');
-            $table->string('golongan_darah');
-            $table->string('jumlah_stok_darah');
+        Schema::create('data_pendonors', function (Blueprint $table) {
+            $table->id();
             $table->timestamps();
         });
     }
@@ -29,6 +26,6 @@ class CreateStokdarah extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('stokdarah');
+        Schema::dropIfExists('data_pendonors');
     }
 }
