@@ -15,13 +15,13 @@ class CreateFormulirDonorsTable extends Migration
     {
         Schema::create('formulir_donors', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->string('nama');
             $table->date('tanggal_lahir');
             $table->string('alamat');
             $table->string('no_han');
             $table->string('beratbadan');
             $table->string('gender');
-            $table->string('riwayat_penyakit');
+            $table->text('riwayat_penyakit')->nullable();
             $table->timestamps();
         });
     }

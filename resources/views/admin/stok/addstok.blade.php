@@ -34,7 +34,7 @@
 
 
     <!-- header-start -->
-    <header>
+  <!--  <header>
         <div class="header-area ">
             <div class="header-top_area">
                 <div class="container-fluid">
@@ -109,61 +109,51 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header>-->
     <!-- header-end -->
 
-    <!-- Google Font: Source Sans Pro -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="public\AdminLTE\plugins\fontawesome-free\css\all.min.css">
-  <!-- Select2 -->
-  <link rel="stylesheet" href="public\AdminLTE\plugins\select2\css\select2.min.css">
-  <!-- Theme style -->
-  <link rel="stylesheet" href="public\AdminLTE\dist\css\adminlte.min.css">
 
-    <br><br><br><br><br>
-    <table class="table table-striped">
-    <thead>
-    <tr>
-      <th scope="col">No</th>
-      <th scope="col">Nama Pelamar</th>
-      <th scope="col">ID Pelamar</th>
-      <th scope="col">Tanggal Pendaftaran</th>
-      <th colspan="3" scope="col">Action</th>
-    </tr>
-    </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Keyla Violetta</td>
-      <td>0987</td>
-      <td>10-10-2020</td>
-      <td><i class="fas fa-edit"></i></td>
-      <td><i class="fas fa-trash-alt"></i></td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Brian Satria</td>
-      <td>9876</td>
-      <td>15-09-2020</td>
-      <td><i class="fas fa-edit"></i></td>
-      <td><i class="fas fa-trash-alt"></i></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Herry Prianto</td>
-      <td>5678</td>
-      <td>20-06-2019</td>
-      <td><i class="fas fa-edit"></i></td>
-      <td><i class="fas fa-trash-alt"></i></td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>Danilla Ramadhina</td>
-      <td>1469</td>
-      <td>06-09-2021</td>
-      <td><i class="fas fa-edit"></i></td>
-      <td><i class="fas fa-trash-alt"></i></td>
-    </tr>
-  </tbody>
-</table>
+  <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  </head>
+  <body>
+    
+  <div class="container mt-5">
+    <h1 class="text-center mb-5"> Stok Darah</h1>
+    <div class="card">
+        <div class="card-body">
+            <table class="table"> 
+                <thead>
+                    <th>No</th>
+                    <th>Jenis Transfusi</th>
+                    <th>Golongan Darah</th>
+                    <th>Jumlah Stok</th>
+                    <th>Aksi</th>
+                </thead>
+                <tbody>
+                @foreach ($stok as $item)
+                    <tr>
+                        <th>{{ $item }}</th>
+                        <th>{{ $item->jenis_transfusi}}</th>
+                        <th>{{ $item->golongan_darah}}</th>
+                        <th>{{ $item->jumlah_stok}}</th>
+                        <th>
+                            <a href="" class="btn btn-success btn-sm">Edit</a>
+                            <button class="btn btn-danger btn-sm">Hapus</button>
+                        </th>
+                    </tr>
+                    @endforeach
+                </tbody> 
+            </table>
+        </div>
+    </div>
+  </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+  </body>
+</html>
