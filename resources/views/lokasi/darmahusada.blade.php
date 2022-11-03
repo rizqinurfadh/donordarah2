@@ -48,7 +48,7 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                           
+
                         </div>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                
+
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -151,7 +151,7 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                           
+
                         </div>
                     </div>
                 </div>
@@ -175,7 +175,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                
+
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -254,7 +254,7 @@
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                           
+
                         </div>
                     </div>
                 </div>
@@ -278,7 +278,7 @@
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="blog">blog</a></li>
-                                                
+
                                             </ul>
                                         </li>
                                         <li><a href="#">Ayo donor<i class="ti-angle-down"></i></a>
@@ -316,23 +316,23 @@
                      <img class="img-fluid" src="img/post/rsbraw.jpg" alt="">
                   </div>
                   <div class="blog_details">
-                     <h2>RUMAH SAKIT BUNDA 
+                     <h2>RUMAH SAKIT BHAKTI DHARMA HUSADA
                      </h2>
                      <ul class="blog-info-link mt-3 mb-4">
                         <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
                         <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
                      </ul>
                      <p class="excert">
-                     Donor darah ini diselenggarakan oleh PMI Kota Surabaya 
-                     bekerja sama dengan Rumah Sakit Bunda dan didukung oleh para tenaga medis di Rumah Sakit Bunda. 
+                     Donor darah ini diselenggarakan oleh PMI Kota Surabaya
+                     bekerja sama dengan Rumah Sakit Bunda dan didukung oleh para tenaga medis di Rumah Sakit Bunda.
                      </p>
-            
+
                      <div class="quote-wrapper">
                         <div class="quotes">
-                           
+
                         </div>
 
-                    
+
                   </div>
                </div>
                <div class="blog-author">
@@ -342,7 +342,7 @@
                         <a href="#">
                            <h4>Zein Alex</h4>
                         </a>
-                        <p>Ketua Pelaksana Donor Darah Rumah Sakit Bunda</p>
+                        <p>Ketua Pelaksana Donor Darah Rumah Sakit Bhakti Dharma Husada</p>
                      </div>
                   </div>
                </div>
@@ -392,4 +392,4 @@
          </div>
       </div>
    </section>
-   <!--================ Blog Area end =================--> 
+   <!--================ Blog Area end =================-->
