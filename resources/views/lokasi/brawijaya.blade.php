@@ -100,3 +100,93 @@
         </div>
     </header>
     <!-- header-end -->
+
+     <!--================Blog Area =================-->
+   <section class="blog_area single-post-area section-padding">
+      <div class="container">
+         <div class="row">
+               <div class="single-post">
+                  <div class="feature-img">
+                     <img class="img-fluid" src="img/post/rsbraw.jpg" alt="">
+                  </div>
+                  <div class="blog_details">
+                     <h2>RUMAH SAKIT BRAWIJAYA
+                     </h2>
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                        <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+                     </ul>
+                     <p class="excert">
+                     Donor darah ini diselenggarakan oleh PMI Kota Surabaya 
+                     bekerja sama dengan Rumah Sakit Brawijaya dan didukung oleh para tenaga medis di Rumah Sakit Brawijaya. 
+                     </p>
+            
+                     <div class="quote-wrapper">
+                        <div class="quotes">
+                           MCSE boot camps have its supporters and its detractors. Some people do not understand why you
+                           should have to spend money on boot camp when you can get the MCSE study materials yourself at
+                           a fraction of the camp price. However, who has the willpower to actually sit through a
+                           self-imposed MCSE training.
+                        </div>
+
+                    
+                  </div>
+               </div>
+               <div class="blog-author">
+                  <div class="media align-items-center">
+                     <img src="img/blog/author.png" alt="">
+                     <div class="media-body">
+                        <a href="#">
+                           <h4>Harry Ahmad</h4>
+                        </a>
+                        <p>Ketua Pelaksana Donor Darah Rumah Sakit Brawijaya</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="comment-form">
+                  <h4>Leave a Reply</h4>
+                  <form class="form-contact comment_form" action="#" id="commentForm">
+                     <div class="row">
+                        <div class="col-12">
+                           <div class="form-group">
+                              <textarea class="form-control w-100" name="comment" id="comment" cols="30" rows="9"
+                                 placeholder="Write Comment"></textarea>
+                           </div>
+                        </div>
+                        <div class="col-12">
+                           <div class="form-group">
+                              <input class="form-control" name="name" id="name" type="text" placeholder="Name">
+                           </div>
+                        </div>
+                        <div class="col-12">
+                           <div class="form-group">
+                              <input class="form-control" name="email" id="email" type="email" placeholder="Email">
+                           </div>
+                        </div>
+                        <div class="col-12">
+                           <div class="form-group">
+                              <input class="form-control" name="website" id="website" type="text" placeholder="Website">
+                           </div>
+                        </div>
+                     </div>
+                     <div class="form-group">
+                        <button type="submit" class="button button-contactForm btn_1 boxed-btn">Send Message</button>
+                     </div>
+                  </form>
+               </div>
+            </div>
+                     <form action="#">
+                        <div class="form-group">
+                           <input type="email" class="form-control" onfocus="this.placeholder = ''"
+                              onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
+                        </div>
+                        <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
+                           type="submit">Subscribe</button>
+                     </form>
+                  </aside>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!--================ Blog Area end =================-->
