@@ -1,5 +1,5 @@
 <?php
-
+use App\Http\Controllers\StokController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DonorController;
 
@@ -13,6 +13,7 @@ use App\Http\Controllers\DonorController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::resource('stok', StokController::class);
 
 Route::get('/index', [DonorController::class,'index']);
 
