@@ -8,6 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class stok extends Model
 {
     use HasFactory;
-    protected $table = 'stok';
+    protected $table = 'stoks';
     protected $guarded = ['id'];
 }

@@ -15,9 +15,9 @@ class StokController extends Controller
      */
     public function index()
     {
-        return view('admin/addstok')->with
-        (['stok' => stok::all()
-        ]);
+        
+        $stok = stok::all();
+        return view('admin\stok\addstok', compact('stok'));
     }
 
     /**
@@ -36,9 +36,15 @@ class StokController extends Controller
      * @param  \App\Http\Requests\StorestokRequest  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(StorestokRequest $request)
+    public function store(Request $request)
     {
-        //
+        $simpan = new Stoks;
+        $simpan->jenis_transfusi = $request->jenis_transfusi;
+        $simpan->golongan_darah = $request->golongan_darah;
+        $simpan->jumlah_stok = $request->jumlah_stok;
+        $simpan->save();
+
+        return redirect('viewstok');
     }
 
     /**
@@ -83,6 +89,8 @@ class StokController extends Controller
      */
     public function destroy(stok $stok)
     {
-        //
+        $hapus =stok::find($id);
+        $hapus->delete();
+        return redirect('addstok');
     }
 }

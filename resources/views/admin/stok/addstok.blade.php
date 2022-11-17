@@ -35,7 +35,7 @@
 
 
     <!-- header-start -->
-  <!--  <header>
+    <header>
         <div class="header-area ">
             <div class="header-top_area">
                 <div class="container-fluid">
@@ -110,9 +110,9 @@
                 </div>
             </div>
         </div>
-    </header>-->
+    </header>
     <!-- header-end -->
-
+<br><br><br><br><br><br><br><br>
 
   <!doctype html>
 <html lang="en">
@@ -128,9 +128,10 @@
     <h1 class="text-center mb-5"> Stok Darah</h1>
     <div class="card">
         <div class="card-body">
+            <a class="btn btn-info" href="{{url('viewstok')}}">Tambah Data</a>
             <table class="table">
                 <thead>
-                    <th>No</th>
+                    
                     <th>Jenis Transfusi</th>
                     <th>Golongan Darah</th>
                     <th>Jumlah Stok</th>
@@ -140,16 +141,20 @@
 
                 @foreach ($stok as $item)
                     <tr>
-                        <th>{{ $item }}</th>
+                        
                         <th>{{ $item->jenis_transfusi}}</th>
                         <th>{{ $item->golongan_darah}}</th>
                         <th>{{ $item->jumlah_stok}}</th>
                         <th>
                             <a href="" class="btn btn-success btn-sm">Edit</a>
+                            <form action="{{url ('addstok/'.$item->id)}}" method="POST">
+                                @csrf
+                                <input type="hidden" name="_method" value="DELETE">
                             <button class="btn btn-danger btn-sm">Hapus</button>
                         </th>
                     </tr>
                     @endforeach
+                
                 </tbody>
             </table>
         </div>

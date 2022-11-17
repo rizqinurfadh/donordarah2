@@ -87,6 +87,10 @@ Route::get('/addstok', function () {
     return view('admin/stok/addstok');
 });
 
+Route::get('/addstok', [StokController::class,'index']);
+##Route::post('/store', [StokController::class,'store'])->name('store');
+##Route::resource('/addstok', [StokController::class]);
+
 Route::get('/viewstok', function () {
     return view('admin/stok/viewstok');
 });
