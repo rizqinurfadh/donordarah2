@@ -15,9 +15,7 @@ class StokController extends Controller
      */
     public function index()
     {
-        
-        $stok = stok::all();
-        return view('admin\stok\addstok', compact('stok'));
+       
     }
 
     /**
