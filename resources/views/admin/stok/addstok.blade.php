@@ -27,6 +27,8 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 
+<a href="{{ url('addstok') }}" ></a>
+</html>
 
 <body>
     <!--[if lte IE 9]>
@@ -77,8 +79,8 @@
                                         </li>
                                         <li><a href="#">Stok Darah<i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                    <li> <a href="addstok"> Add Stok</a></li>
-                                                    <li> <a href="viewstok"> View Stok</a></li>
+                                                    <li> <a href="/addstok"> Add Stok</a></li>
+                                                    <li> <a href="/addstok/create"> View Stok</a></li>
 
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>
@@ -128,7 +130,8 @@
     <h1 class="text-center mb-5"> Stok Darah</h1>
     <div class="card">
         <div class="card-body">
-            <a class="btn btn-info" href="{{url('viewstok')}}">Tambah Data</a>
+            <a class="btn btn-info" href="{{ url('addstok/create')}}">Tambah Data</a>
+            @csrf
             <table class="table">
                 <thead>
                     
@@ -139,15 +142,17 @@
                 </thead>
                 <tbody>
 
-                @foreach ($stok as $item)
+                @foreach ($data as $item)
                     <tr>
                         
-                        <th>{{ $item->jenis_transfusi}}</th>
-                        <th>{{ $item->golongan_darah}}</th>
-                        <th>{{ $item->jumlah_stok}}</th>
+                        <td>{{ $item->jenis_transfusi}}</td>
+                        <td>{{ $item->golongan_darah}}</td>
+                        <td>{{ $item->jumlah_stok}}</td>
+
                         <th>
                             <a href="" class="btn btn-success btn-sm">Edit</a>
-                            <form action="{{url ('addstok/'.$item->id)}}" method="POST">
+
+                            <form action="{{url ('addstok/'.$item->id) }}" method="POST">
                                 @csrf
                                 <input type="hidden" name="_method" value="DELETE">
                             <button class="btn btn-danger btn-sm">Hapus</button>

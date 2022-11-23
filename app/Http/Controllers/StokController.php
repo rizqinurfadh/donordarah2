@@ -15,7 +15,8 @@ class StokController extends Controller
      */
     public function index()
     {
-       
+        $data = stok::orderBy('id', 'desc')->get();
+        return view('admin\stok\addstok')->with('data', $data);
     }
 
     /**
@@ -25,7 +26,7 @@ class StokController extends Controller
      */
     public function create()
     {
-        //
+       return view('admin\stok\viewstok');
     }
 
     /**
@@ -36,13 +37,16 @@ class StokController extends Controller
      */
     public function store(Request $request)
     {
-        $simpan = new Stoks;
-        $simpan->jenis_transfusi = $request->jenis_transfusi;
-        $simpan->golongan_darah = $request->golongan_darah;
-        $simpan->jumlah_stok = $request->jumlah_stok;
-        $simpan->save();
+        $data =[
+            'jenis_tranfusi' => $request->name,
+            'golongan_darah' =>$request->bloodgroup,
+            'jumlah_stok' =>$request->bloodgroup1
+        ];
 
-        return redirect('viewstok');
+        stok::create($data);
+        $data = stok::orderBy('id', 'desc')->get();
+        return view('admin\stok\addstok')->wtih('data', $data);
+
     }
 
     /**
@@ -64,7 +68,8 @@ class StokController extends Controller
      */
     public function edit(stok $stok)
     {
-        //
+        $data = stok::where('id', $id)->first();
+        return view('admin\stok\editstok')->with('data', $data);
     }
 
     /**
@@ -76,7 +81,14 @@ class StokController extends Controller
      */
     public function update(UpdatestokRequest $request, stok $stok)
     {
-        //
+        $data =[
+            'jenis_tranfusi' => $request->name,
+            'golongan_darah' =>$request->bloodgroup,
+            'jumlah_stok' =>$request->bloodgroup1
+        ];
+
+        stok::where('id', $id)->update($data);
+        return redirect()->to('stok')->with('succes', 'Berhasil melakukan update');
     }
 
     /**
