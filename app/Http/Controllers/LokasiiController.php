@@ -1,15 +1,11 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Models\tempat;
+use Illuminate\Http\Request;
 
-use App\Models\lokasi;
-use App\Http\Requests\StorelokasiRequest;
-use App\Http\Requests\UpdatelokasiRequest;
-
-class LokasiController extends Controller
+class LokasiiController extends Controller
 {
-
-    
     /**
      * Display a listing of the resource.
      *
@@ -34,10 +30,10 @@ class LokasiController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StorelokasiRequest  $request
+     * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(StorelokasiRequest $request)
+    public function store(Request $request)
     {
         //
     }
@@ -45,10 +41,10 @@ class LokasiController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\lokasi  $lokasi
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(lokasi $lokasi)
+    public function show($id)
     {
         //
     }
@@ -56,10 +52,10 @@ class LokasiController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\lokasi  $lokasi
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit(lokasi $lokasi)
+    public function edit($id)
     {
         //
     }
@@ -67,11 +63,11 @@ class LokasiController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdatelokasiRequest  $request
-     * @param  \App\Models\lokasi  $lokasi
+     * @param  \Illuminate\Http\Request  $request
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(UpdatelokasiRequest $request, lokasi $lokasi)
+    public function update(Request $request, $id)
     {
         //
     }
@@ -79,10 +75,10 @@ class LokasiController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\lokasi  $lokasi
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy(lokasi $lokasi)
+    public function destroy($id)
     {
         //
     }

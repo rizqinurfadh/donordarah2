@@ -1,3 +1,5 @@
+
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -9,23 +11,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset ('img/favicon.png') }}">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{ asset ('css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/magnific-popup.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/themify-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/nice-select.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/flaticon.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/gijgo.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/animate.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/slicknav.css') }}">
+    <link rel="stylesheet" href="{{ asset ('css/style.css') }}">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
+
+<form action="{{ url('addstok') }} " method="post" enctype="multipart/form-data">
+    @csrf
 
 <body>
     <!--[if lte IE 9]>
@@ -75,8 +80,8 @@
                                         </li>
                                         <li><a href="#">Stok Darah<i class="ti-angle-down"></i></a>
                                             <ul class="submenu"> 
-                                                    <li> <a href="addstok"> Add Stok</a></li>
-                                                    <li> <a href="viewstok"> View Stok</a></li>
+                                                    <li> <a href="/addstok"> Add Stok</a></li>
+                                                    <li> <a href="/addstok/create"> View Stok</a></li>
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu"> 
@@ -164,7 +169,7 @@
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-lg-6">
-                                    <form method="POST" action="{{URL('addstok')}}" >
+                                    <form method="POST" action="{{ URL('addstok') }}" >
                                      @csrf
                                         <div class="form-group">
                                             <label>Masukkan Jenis Transfusi</label>
@@ -179,7 +184,7 @@
 
                                         <div class="form-group">
                                             <label>Masukkan Jumlah Stok</label>
-                                            <input class="form-control" placeholder="Eg: 10" name="bloodgroup" required>
+                                            <input class="form-control" placeholder="Eg: 10" name="bloodgroup1" required>
                                         </div>
                                         <div class="container text-center">
                                         <button type="submit" class="btn btn-success btn-default" style="border-radius: 0%;">Submit Form</button>
@@ -202,26 +207,21 @@
     <!-- /#wrapper -->
                             </div>
     <!-- jQuery -->
-    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="{{ asset ('../vendor/jquery/jquery.min.js') }}"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ asset ('../vendor/bootstrap/js/bootstrap.min.js') }}"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
-    <script src="../vendor/metisMenu/metisMenu.min.js"></script>
+    <script src="{{ asset ('../vendor/metisMenu/metisMenu.min.js') }}"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="../dist/js/sb-admin-2.js"></script>
+    <script src="{{ asset ('../dist/js/sb-admin-2.js') }}"></script>
 
 </body>
-
-<footer>
-        
+<footer>      
     </footer>
-	
-	
-
-</html>
+</form>
 
 
 
