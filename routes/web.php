@@ -1,5 +1,6 @@
 <?php
 use App\Http\Controllers\StokController;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\LokasiiController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DonorController;
@@ -91,6 +92,8 @@ Route::get('/addstok', [StokController::class,'index']); */
 ##Route::post('/store', [StokController::class,'store'])->name('store');
 Route::resource('/addstok', StokController::class);
 
+Route::resource('/blog', BlogController::class);
+
 // Route::get('/viewlokasi', [LokasiController::class, 'viewlokasi']);
 
 Route::get('/viewlokasi', [LokasiiController::class, 'index']);
@@ -101,9 +104,9 @@ Route::get('/viewstok', function () {
     return view('admin/stok/viewstok');
 });
 
-Route::get('/editstok', function () {
-    return view('admin/stok/editstok');
-});
+// Route::get('/editstok', function () {
+//     return view('admin/stok/editstok');
+// });
 
 
 

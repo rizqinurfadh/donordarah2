@@ -47,6 +47,9 @@
   <link rel="stylesheet" href="public\AdminLTE\plugins\summernote\summernote-bs4.min.css">
 </head>
 
+<form action='{{ url('addstok') }}' method="POST" >
+  @csrf 
+
 <body>
     <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -96,8 +99,8 @@
                                         </li>
                                         <li><a href="#">Stok Darah<i class="ti-angle-down"></i></a>
                                             <ul class="submenu"> 
-                                                    <li> <a href="addstok"> Add Stok</a></li>
-                                                    <li> <a href="viewstok"> View Stok</a></li>
+                                                    <li> <a href="/addstok"> Add Stok</a></li>
+                                                    <li> <a href="/addstok/create"> View Stok</a></li>
                                                   
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>

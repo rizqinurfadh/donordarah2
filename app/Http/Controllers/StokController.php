@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\stok;
+use Illuminate\Http\Request;
 use App\Http\Requests\StorestokRequest;
 use App\Http\Requests\UpdatestokRequest;
 
@@ -17,7 +18,7 @@ class StokController extends Controller
     {
         $data = stok::orderBy('id', 'desc')->get();
         return view('admin\stok\addstok')->with('data', $data);
-    }
+    } 
 
     /**
      * Show the form for creating a new resource.
@@ -38,14 +39,14 @@ class StokController extends Controller
     public function store(Request $request)
     {
         $data =[
-            'jenis_tranfusi' => $request->name,
+            'jenis_transfusi' => $request->name,
             'golongan_darah' =>$request->bloodgroup,
             'jumlah_stok' =>$request->bloodgroup1
         ];
 
         stok::create($data);
         $data = stok::orderBy('id', 'desc')->get();
-        return view('admin\stok\addstok')->wtih('data', $data);
+        return view('admin\stok\addstok')->with('data', $data);
 
     }
 
@@ -68,8 +69,12 @@ class StokController extends Controller
      */
     public function edit(stok $stok)
     {
-        $data = stok::where('id', $id)->first();
-        return view('admin\stok\editstok')->with('data', $data);
+        $id = request('id');
+        // $data = stok::where('id', $id)->get();
+        return view('admin\stok\editstok',[
+            'data' => stok::where('id', $id)->get()
+        ]);
+        // dd($data);
     }
 
     /**
@@ -81,14 +86,15 @@ class StokController extends Controller
      */
     public function update(UpdatestokRequest $request, stok $stok)
     {
+        $id = request('id');
         $data =[
-            'jenis_tranfusi' => $request->name,
+            'jenis_transfusi' => $request->name,
             'golongan_darah' =>$request->bloodgroup,
             'jumlah_stok' =>$request->bloodgroup1
         ];
 
         stok::where('id', $id)->update($data);
-        return redirect()->to('stok')->with('succes', 'Berhasil melakukan update');
+        return redirect()->to('addstok')->with('succes', 'Berhasil melakukan update');
     }
 
     /**
@@ -99,8 +105,10 @@ class StokController extends Controller
      */
     public function destroy(stok $stok)
     {
-        $hapus =stok::find($id);
-        $hapus->delete();
+        $id = request('id');
+        // dd($id);
+        
+       stok::destroy($id);
         return redirect('addstok');
     }
 }

@@ -71,8 +71,8 @@
                                         <li><a href="Profile">Profile</a></li>
                                         <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="addblog">Add blog</a></li>
-                                                <li><a href="viewblog">View blog</a></li>
+                                                <li><a href="/blog">Add blog</a></li>
+                                                <li><a href="/blog/create">View blog</a></li>
 
 
                                             </ul>
@@ -132,13 +132,17 @@
         <div class="card-body">
             <a class="btn btn-info" href="{{ url('addstok/create')}}">Tambah Data</a>
             @csrf
+
             <table class="table">
                 <thead>
-                    
+                    <tr>
+
                     <th>Jenis Transfusi</th>
                     <th>Golongan Darah</th>
                     <th>Jumlah Stok</th>
                     <th>Aksi</th>
+
+                    <tr>
                 </thead>
                 <tbody>
 
@@ -148,13 +152,18 @@
                         <td>{{ $item->jenis_transfusi}}</td>
                         <td>{{ $item->golongan_darah}}</td>
                         <td>{{ $item->jumlah_stok}}</td>
+                    
 
                         <th>
-                            <a href="" class="btn btn-success btn-sm">Edit</a>
-
+                            <a href="{{ url('addstok/'.$item->id.'/edit?id='.$item->id) }}"> 
+                                <div class="btn btn-success btn-sm" >Edit</div>
+                            </a>
+                            
                             <form action="{{url ('addstok/'.$item->id) }}" method="POST">
+                                @method('delete');
                                 @csrf
-                                <input type="hidden" name="_method" value="DELETE">
+
+                                <input type="hidden" name="id" value={{$data[0]->id}}>
                             <button class="btn btn-danger btn-sm">Hapus</button>
                         </th>
                     </tr>
