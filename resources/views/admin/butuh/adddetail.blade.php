@@ -41,11 +41,11 @@
                     <div class="row">
                         <div class="col-xl-6 col-md-12 col-lg-8">
                             <div class="short_contact_list">
-                               
+
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 col-lg-4">
-                           
+
                         </div>
                     </div>
                 </div>
@@ -70,38 +70,38 @@
                                             <ul class="submenu">
                                                 <li><a href="addblog">Add blog</a></li>
                                                 <li><a href="viewblog">View blog</a></li>
-                                            
-                                                
+
+
                                             </ul>
                                         </li>
                                         <li><a href="#">Stok Darah<i class="ti-angle-down"></i></a>
-                                            <ul class="submenu"> 
+                                            <ul class="submenu">
                                                     <li> <a href="addstok"> Add Stok</a></li>
                                                     <li> <a href="viewstok"> View Stok</a></li>
-                                        
+
 
                                                     </ul>
                                         <li><a href="lokasi">Lokasi Donor<i class="ti-angle-down"></i></a>
-                                                <ul class="submenu"> 
+                                                <ul class="submenu">
                                                     <li> <a href="addlokasi"> Add Lokasi</a></li>
                                                     <li> <a href="viewlokasi"> View Lokasi</a></li>
-                                                
+
 
                                                     </ul>
                                                     </li>
                                         </li>
                                         <li><a href="contact">Butuh donor<i class="ti-angle-down"></i></a>
-                                        <ul class="submenu"> 
+                                        <ul class="submenu">
                                                     <li> <a href="adddetail"> Add Detail</a></li>
                                                     <li> <a href="viewdetail"> View Detail</a></li>
-                                  
-                                                    
+
+
                                                     </ul>
                                     </li>
                                     </ul>
                                 </nav>
                                 <div class="Appointment">
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
         </div>
     </header>
     <!-- header-end -->
-   
+
     <!DOCTYPE html>
 <html lang="en">
 
@@ -161,26 +161,32 @@
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
+
+            <!-- Awal Form -->
             <!-- /.row -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            Please fill up the form below:
+                            Form Input Data Butuh Darah:
                         </div>
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <form role="form" action="addedblood.php" method="post">
-                                     
+
                                         <div class="form-group">
                                             <label>Masukkan Nama Lengkap</label>
-                                            <input class="form-control" type="text" placeholder="Harry Den" name="name" required>
+                                            <input class="form-control" type="text" placeholder="" name="name" required>
                                         </div>
-                                        
+
                                         <div class="form-group">
-                                            <label>Jenis Kelamin [ M/F ]</label>
-                                            <input class="form-control" placeholder="M or F" name="gender" required>
+                                            <label>Jenis Kelamin</label>
+                                            <select class="form-control" name="gender">
+                                                <option></option>
+                                                <option value="Laki-laki">Laki-laki</option>
+                                                <option value="Perempuan">Perempuan</option>
+                                            </select>
                                         </div>
 
                                         <div class="form-group">
@@ -188,50 +194,56 @@
                                             <input class="form-control" type="date" name="dob" required>
                                         </div>
 
-                                       
-
                                         <div class="form-group">
                                             <label>Masukkan Golongan Darah</label>
-                                            <input class="form-control" placeholder="Eg: B+" name="bloodgroup" required>
+                                            <select class="form-control" name="goldar">
+                                                <option></option>
+                                                <option value="A+">A+</option>
+                                                <option value="B+">B+</option>
+                                                <option value="AB+">AB+</option>
+                                                <option value="O+">O+</option>
+                                            </select>
                                         </div>
 
                                         <div class="form-group">
                                             <label>Masukkan Alamat Lengkap</label>
-                                            <input class="form-control" placeholder="Alamat" type="text" name="address" required>
+                                            <input class="form-control" placeholder="" type="text" name="address" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Masukkan kontak hp</label>
-                                            <input class="form-control" placeholder="no handphone" type="number" name="contact" required>
+                                            <label>Masukkan Nomor HP</label>
+                                            <input class="form-control" placeholder="" type="text" name="contact" required>
                                         </div>
 
                                         <div class="form-group">
-                                            <label>Berat Darah</label>
-                                            <input class="form-control" placeholder="Berat darah" type="number" name="bloodqty" required>
+                                            <label>Jumlah Kantong</label>
+                                            <input class="form-control" placeholder="" type="number" name="bloodqty" required>
                                         </div>
 
-                
+
                                         <div class="form-group">
-                                        <label>Location</label>
-                                        <div class="form-select" id="default-select"">
-                                            <select>
-												<option value=" 1">..</option>
-									        <option value="1">RS Universitas Airlangga</option>
-									        <option value="1">RSUD Dr.Moh.Soewandhi</option>
-									        <option value="1">RSUD Dr.Soetomo</option>
-									        <option value="1">RSUD Bhakti Dharma Husada</option>
-                                            <option value="1">RS Brawijaya</option>
-                                            <option value="1">RS Bunda</option> 
-									</select>
-								</div>
-							</div>
-                                    
-										
-                                        <button type="submit" class="btn btn-success btn-default" style="border-radius: 0%;">Submit Form</button>
-                
+                                            <label>Lokasi Donor</label>
+                                            <select class="form-control" name="lokasi">
+											    <option></option>
+									            <option value="1">RS Universitas Airlangga</option>
+									            <option value="1">RSUD Dr.Moh.Soewandhi</option>
+									            <option value="1">RSUD Dr.Soetomo</option>
+									            <option value="1">RSUD Bhakti Dharma Husada</option>
+                                                <option value="1">RS Brawijaya</option>
+                                                <option value="1">RS Bunda</option>
+									        </select>
+								        </div>
+
+
+                                        <button type="submit" class="btn btn-success" name="oksimpan">Simpan</button>
+                                        <button type="reset" class="btn btn-danger" name="noreset">Kosongkan</button>
+
+
                                     </form>
                                 </div>
-                                
+
+                                <!-- Akhir Form -->
+
                             </div>
                             <!-- /.row (nested) -->
                         </div>
@@ -242,6 +254,10 @@
                 <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
+
+            <!-- Akhir Form -->
+
+
         </div>
         <!-- /#page-wrapper -->
 
@@ -263,9 +279,9 @@
 </body>
 
 <footer>
-        
+
     </footer>
-	
+
 	<style>
 	footer{
    background-color: #424558;
